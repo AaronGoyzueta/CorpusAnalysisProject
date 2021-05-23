@@ -1,0 +1,479 @@
+{
+    "channel_name": "auronplay",
+    "channel_id": "459331509",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "300495615",
+        "$9.99": "300495616",
+        "$24.99": "300495617"
+    },
+    "emotes": [
+        {
+            "code": "auronGato",
+            "emoticon_set": 300495615,
+            "id": 300809835
+        },
+        {
+            "code": "auronCALVO",
+            "emoticon_set": 300495615,
+            "id": 300885151
+        },
+        {
+            "code": "auronCERDO",
+            "emoticon_set": 300495615,
+            "id": 300885154
+        },
+        {
+            "code": "auronRodoamor",
+            "emoticon_set": 300495615,
+            "id": 301366912
+        },
+        {
+            "code": "auronTriste",
+            "emoticon_set": 300495615,
+            "id": 301367068
+        },
+        {
+            "code": "auronSad",
+            "emoticon_set": 300495615,
+            "id": 301371848
+        },
+        {
+            "code": "auronWtf",
+            "emoticon_set": 300495615,
+            "id": 301371850
+        },
+        {
+            "code": "auronHappy",
+            "emoticon_set": 300495615,
+            "id": 301371852
+        },
+        {
+            "code": "auronNO",
+            "emoticon_set": 300495615,
+            "id": 301427704
+        },
+        {
+            "code": "auronREZO",
+            "emoticon_set": 300495615,
+            "id": 301427706
+        },
+        {
+            "code": "auronSI",
+            "emoticon_set": 300495615,
+            "id": 301427707
+        },
+        {
+            "code": "auronFREDE",
+            "emoticon_set": 300495615,
+            "id": 301427709
+        },
+        {
+            "code": "auronZUMO",
+            "emoticon_set": 300495615,
+            "id": 301427720
+        },
+        {
+            "code": "auronEnfado",
+            "emoticon_set": 300495615,
+            "id": 301813874
+        },
+        {
+            "code": "auronEnfadao",
+            "emoticon_set": 300495615,
+            "id": 301835871
+        },
+        {
+            "code": "auronFbi",
+            "emoticon_set": 300495615,
+            "id": 301835875
+        },
+        {
+            "code": "auronMmmmm",
+            "emoticon_set": 300495615,
+            "id": 301835877
+        },
+        {
+            "code": "auronSnifff",
+            "emoticon_set": 300495615,
+            "id": 301835879
+        },
+        {
+            "code": "auron1600iq",
+            "emoticon_set": 300495615,
+            "id": 301835887
+        },
+        {
+            "code": "auronGg",
+            "emoticon_set": 300495615,
+            "id": 301835888
+        },
+        {
+            "code": "auronFbbbbbi",
+            "emoticon_set": 300495615,
+            "id": 301835889
+        },
+        {
+            "code": "auronAgua",
+            "emoticon_set": 300495615,
+            "id": 301835891
+        },
+        {
+            "code": "auronEstres",
+            "emoticon_set": 300495615,
+            "id": 301835895
+        },
+        {
+            "code": "auronWc",
+            "emoticon_set": 300495615,
+            "id": 301835901
+        },
+        {
+            "code": "auronByebye",
+            "emoticon_set": 300495615,
+            "id": 301835903
+        },
+        {
+            "code": "auronCalbo",
+            "emoticon_set": 300495615,
+            "id": 301845053
+        },
+        {
+            "code": "auronAaahhhh",
+            "emoticon_set": 300495615,
+            "id": 301845071
+        },
+        {
+            "code": "auronAuronkryyy",
+            "emoticon_set": 300495615,
+            "id": 301969367
+        },
+        {
+            "code": "auronHURT",
+            "emoticon_set": 300495615,
+            "id": 302084170
+        },
+        {
+            "code": "auronAll",
+            "emoticon_set": 300495615,
+            "id": 302084175
+        },
+        {
+            "code": "auronColours",
+            "emoticon_set": 300495615,
+            "id": 302084180
+        },
+        {
+            "code": "auronSuaveee",
+            "emoticon_set": 300495615,
+            "id": 302347168
+        },
+        {
+            "code": "auronEeehhhh",
+            "emoticon_set": 300495615,
+            "id": 302347175
+        },
+        {
+            "code": "auronTem",
+            "emoticon_set": 300495615,
+            "id": 302347183
+        },
+        {
+            "code": "auronAzo",
+            "emoticon_set": 300495615,
+            "id": 302347186
+        },
+        {
+            "code": "auronAaaaahhh",
+            "emoticon_set": 300495615,
+            "id": 302347198
+        },
+        {
+            "code": "auronAparta",
+            "emoticon_set": 300495615,
+            "id": 302347222
+        },
+        {
+            "code": "auronDancing",
+            "emoticon_set": 300495615,
+            "id": 302347224
+        },
+        {
+            "code": "auronEfe",
+            "emoticon_set": 300495615,
+            "id": 302347239
+        },
+        {
+            "code": "auronHot",
+            "emoticon_set": 300495615,
+            "id": 305402845
+        },
+        {
+            "code": "auronBitstimidos",
+            "emoticon_set": 300495615,
+            "id": 305409580
+        },
+        {
+            "code": "auronCanibal",
+            "emoticon_set": 300495615,
+            "id": 305409596
+        },
+        {
+            "code": "auronHotttt",
+            "emoticon_set": 300495615,
+            "id": 305409604
+        },
+        {
+            "code": "auronPlasplas",
+            "emoticon_set": 300495615,
+            "id": 305412484
+        },
+        {
+            "code": "auronPalomitas",
+            "emoticon_set": 300495615,
+            "id": 305412503
+        },
+        {
+            "code": "auronClown",
+            "emoticon_set": 300495615,
+            "id": 305445639
+        },
+        {
+            "code": "auronStonks",
+            "emoticon_set": 300495615,
+            "id": 305445651
+        },
+        {
+            "code": "auronEnfada0",
+            "emoticon_set": 300495615,
+            "id": 305445672
+        },
+        {
+            "code": "auronNostonks",
+            "emoticon_set": 300495615,
+            "id": 305445683
+        },
+        {
+            "code": "auronDorado",
+            "emoticon_set": 300495615,
+            "id": 305445698
+        },
+        {
+            "code": "auronAsul",
+            "emoticon_set": 300495615,
+            "id": 305445714
+        },
+        {
+            "code": "auronPogo",
+            "emoticon_set": 300495615,
+            "id": 305445731
+        },
+        {
+            "code": "auronTetolero",
+            "emoticon_set": 300495615,
+            "id": 305445762
+        },
+        {
+            "code": "auronLUIS",
+            "emoticon_set": 300495615,
+            "id": 305447286
+        },
+        {
+            "code": "auronRISA",
+            "emoticon_set": 300495615,
+            "id": 305447295
+        },
+        {
+            "code": "auronPolvora",
+            "emoticon_set": 300495615,
+            "id": 305522721
+        },
+        {
+            "code": "auronPuerko",
+            "emoticon_set": 300495615,
+            "id": 305522742
+        },
+        {
+            "code": "auronAwa",
+            "emoticon_set": 300495615,
+            "id": 305522760
+        },
+        {
+            "code": "auronMedias",
+            "emoticon_set": 300495615,
+            "id": 306158318
+        },
+        {
+            "code": "auronPalm",
+            "emoticon_set": 300495615,
+            "id": 307482346
+        },
+        {
+            "code": "auron1kk",
+            "emoticon_set": 300495616,
+            "id": 305743660
+        },
+        {
+            "code": "auron2kk",
+            "emoticon_set": 300495616,
+            "id": 305743662
+        },
+        {
+            "code": "auron3kk",
+            "emoticon_set": 300495616,
+            "id": 305743666
+        },
+        {
+            "code": "auron4kk",
+            "emoticon_set": 300495616,
+            "id": 305743669
+        },
+        {
+            "code": "auron5kk",
+            "emoticon_set": 300495616,
+            "id": 305743671
+        },
+        {
+            "code": "auron6kk",
+            "emoticon_set": 300495617,
+            "id": 305743675
+        },
+        {
+            "code": "auron7kk",
+            "emoticon_set": 300495617,
+            "id": 305743680
+        },
+        {
+            "code": "auron8kk",
+            "emoticon_set": 300495617,
+            "id": 305743683
+        },
+        {
+            "code": "auron9kk",
+            "emoticon_set": 300495617,
+            "id": 305743684
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2cee41c7-f7ad-4189-9d7c-7b77471b9e8a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2cee41c7-f7ad-4189-9d7c-7b77471b9e8a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2cee41c7-f7ad-4189-9d7c-7b77471b9e8a/3",
+            "title": "Subscriber"
+        },
+        "2": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/877f2023-2d87-4659-9031-41cb1e662c5c/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/877f2023-2d87-4659-9031-41cb1e662c5c/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/877f2023-2d87-4659-9031-41cb1e662c5c/3",
+            "title": "2-Month Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/295ec4f7-262a-4c25-b9d4-a8081e1c40f2/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/295ec4f7-262a-4c25-b9d4-a8081e1c40f2/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/295ec4f7-262a-4c25-b9d4-a8081e1c40f2/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/74f4c57f-49cc-4488-85f1-edc21f45d000/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/74f4c57f-49cc-4488-85f1-edc21f45d000/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/74f4c57f-49cc-4488-85f1-edc21f45d000/3",
+            "title": "6-Month Subscriber"
+        },
+        "9": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d2db2b61-ca7f-4bf4-b64a-9a0dbdd467b1/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d2db2b61-ca7f-4bf4-b64a-9a0dbdd467b1/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d2db2b61-ca7f-4bf4-b64a-9a0dbdd467b1/3",
+            "title": "9-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/31818eef-c898-4c0a-af97-3c8836765878/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/31818eef-c898-4c0a-af97-3c8836765878/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/31818eef-c898-4c0a-af97-3c8836765878/3",
+            "title": "1-Year Subscriber"
+        },
+        "18": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/aff60ea4-e47a-416f-a50d-03c82fbbe923/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/aff60ea4-e47a-416f-a50d-03c82fbbe923/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/aff60ea4-e47a-416f-a50d-03c82fbbe923/3",
+            "title": "1.5-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/38f4d10b-d34f-4c08-a653-0179cde432fb/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/38f4d10b-d34f-4c08-a653-0179cde432fb/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/38f4d10b-d34f-4c08-a653-0179cde432fb/3",
+            "title": "2-Year Subscriber"
+        }
+    },
+    "bits_badges": {
+        "1000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a5f31021-32f4-4033-90f4-4c2fde057041/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a5f31021-32f4-4033-90f4-4c2fde057041/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a5f31021-32f4-4033-90f4-4c2fde057041/3",
+            "title": "cheer 1000"
+        },
+        "5000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/fa15d552-2645-4cef-9f35-097f7e83c024/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/fa15d552-2645-4cef-9f35-097f7e83c024/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/fa15d552-2645-4cef-9f35-097f7e83c024/3",
+            "title": "cheer 5000"
+        },
+        "10000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8b24bfd1-87e8-435d-a0c0-8d7450226cc8/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8b24bfd1-87e8-435d-a0c0-8d7450226cc8/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8b24bfd1-87e8-435d-a0c0-8d7450226cc8/3",
+            "title": "cheer 10000"
+        },
+        "25000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d666d56a-a82d-4525-bdca-478070a70eb7/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d666d56a-a82d-4525-bdca-478070a70eb7/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d666d56a-a82d-4525-bdca-478070a70eb7/3",
+            "title": "cheer 25000"
+        },
+        "50000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/88373294-5af0-45d7-8271-99310560c267/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/88373294-5af0-45d7-8271-99310560c267/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/88373294-5af0-45d7-8271-99310560c267/3",
+            "title": "cheer 50000"
+        },
+        "75000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f20748ca-20bc-4cac-ae56-eb5f4db56d4c/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f20748ca-20bc-4cac-ae56-eb5f4db56d4c/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f20748ca-20bc-4cac-ae56-eb5f4db56d4c/3",
+            "title": "cheer 75000"
+        },
+        "100000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/315a6148-20cc-481b-9d34-9c2d4481e363/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/315a6148-20cc-481b-9d34-9c2d4481e363/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/315a6148-20cc-481b-9d34-9c2d4481e363/3",
+            "title": "cheer 100000"
+        },
+        "200000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/66304775-f14b-4666-b89d-7b3590ed7d07/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/66304775-f14b-4666-b89d-7b3590ed7d07/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/66304775-f14b-4666-b89d-7b3590ed7d07/3",
+            "title": "cheer 200000"
+        },
+        "300000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/90d3be1b-fa3d-4acd-8d53-8711de853731/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/90d3be1b-fa3d-4acd-8d53-8711de853731/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/90d3be1b-fa3d-4acd-8d53-8711de853731/3",
+            "title": "cheer 300000"
+        },
+        "400000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f4adf2bb-2dfc-4522-8923-4733601b1d0f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f4adf2bb-2dfc-4522-8923-4733601b1d0f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f4adf2bb-2dfc-4522-8923-4733601b1d0f/3",
+            "title": "cheer 400000"
+        },
+        "500000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2a9002f0-3d9d-408c-abfe-0d122b902d33/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2a9002f0-3d9d-408c-abfe-0d122b902d33/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2a9002f0-3d9d-408c-abfe-0d122b902d33/3",
+            "title": "cheer 500000"
+        }
+    },
+    "cheermotes": null,
+    "base_set_id": "300495615",
+    "display_name": "Auronplay",
+    "generated_at": "2021-05-19T11:05:00Z"
+}

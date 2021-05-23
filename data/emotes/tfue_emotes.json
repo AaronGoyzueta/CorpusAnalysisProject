@@ -1,0 +1,344 @@
+{
+    "channel_name": "tfue",
+    "channel_id": "60056333",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "13153",
+        "$9.99": "28104",
+        "$24.99": "28105"
+    },
+    "emotes": [
+        {
+            "code": "tfueGLAD",
+            "emoticon_set": 13153,
+            "id": 126499
+        },
+        {
+            "code": "tfueLOVE",
+            "emoticon_set": 13153,
+            "id": 155216
+        },
+        {
+            "code": "tfueHEY",
+            "emoticon_set": 13153,
+            "id": 155218
+        },
+        {
+            "code": "tfueTIP",
+            "emoticon_set": 13153,
+            "id": 155219
+        },
+        {
+            "code": "tfueCHINGLONG",
+            "emoticon_set": 13153,
+            "id": 155220
+        },
+        {
+            "code": "tfueLOG",
+            "emoticon_set": 13153,
+            "id": 176575
+        },
+        {
+            "code": "tfueTH",
+            "emoticon_set": 13153,
+            "id": 176579
+        },
+        {
+            "code": "tfueWINDOW",
+            "emoticon_set": 13153,
+            "id": 674295
+        },
+        {
+            "code": "tfueBANKSY",
+            "emoticon_set": 13153,
+            "id": 674298
+        },
+        {
+            "code": "tfueBINDI",
+            "emoticon_set": 13153,
+            "id": 674300
+        },
+        {
+            "code": "tfueBTC",
+            "emoticon_set": 13153,
+            "id": 759051
+        },
+        {
+            "code": "tfueWOW",
+            "emoticon_set": 13153,
+            "id": 1207063
+        },
+        {
+            "code": "tfueTOXIC",
+            "emoticon_set": 13153,
+            "id": 1207065
+        },
+        {
+            "code": "tfueSWANTON",
+            "emoticon_set": 13153,
+            "id": 1207068
+        },
+        {
+            "code": "tfueSLEEPER",
+            "emoticon_set": 13153,
+            "id": 1207071
+        },
+        {
+            "code": "tfueROLL",
+            "emoticon_set": 13153,
+            "id": 1207072
+        },
+        {
+            "code": "tfueWTF",
+            "emoticon_set": 13153,
+            "id": 1207074
+        },
+        {
+            "code": "tfueFEELSBAD",
+            "emoticon_set": 13153,
+            "id": 1207075
+        },
+        {
+            "code": "tfueLAUGH",
+            "emoticon_set": 13153,
+            "id": 1207077
+        },
+        {
+            "code": "tfueLASER",
+            "emoticon_set": 13153,
+            "id": 1207080
+        },
+        {
+            "code": "tfueKKONA",
+            "emoticon_set": 13153,
+            "id": 1207081
+        },
+        {
+            "code": "tfueHI",
+            "emoticon_set": 13153,
+            "id": 1207083
+        },
+        {
+            "code": "tfueBORED",
+            "emoticon_set": 13153,
+            "id": 1207086
+        },
+        {
+            "code": "tfueDERP",
+            "emoticon_set": 13153,
+            "id": 1207087
+        },
+        {
+            "code": "tfueCUTIE",
+            "emoticon_set": 13153,
+            "id": 1207088
+        },
+        {
+            "code": "tfueCRY",
+            "emoticon_set": 13153,
+            "id": 1207089
+        },
+        {
+            "code": "tfueCRACK",
+            "emoticon_set": 13153,
+            "id": 1207090
+        },
+        {
+            "code": "tfueCASH",
+            "emoticon_set": 13153,
+            "id": 1207094
+        },
+        {
+            "code": "tfueSWEATER",
+            "emoticon_set": 13153,
+            "id": 1213288
+        },
+        {
+            "code": "tfueRAGE",
+            "emoticon_set": 13153,
+            "id": 1215296
+        },
+        {
+            "code": "tfueCLOAK",
+            "emoticon_set": 13153,
+            "id": 1215361
+        },
+        {
+            "code": "tfueBURP",
+            "emoticon_set": 13153,
+            "id": 1728850
+        },
+        {
+            "code": "tfueCHUG",
+            "emoticon_set": 13153,
+            "id": 1728852
+        },
+        {
+            "code": "tfueTFLU",
+            "emoticon_set": 13153,
+            "id": 1728857
+        },
+        {
+            "code": "tfueWAAA",
+            "emoticon_set": 13153,
+            "id": 1728858
+        },
+        {
+            "code": "tfueUGH",
+            "emoticon_set": 13153,
+            "id": 1728865
+        },
+        {
+            "code": "tfueHIGH",
+            "emoticon_set": 13153,
+            "id": 1728866
+        },
+        {
+            "code": "tfueBAN",
+            "emoticon_set": 13153,
+            "id": 1850891
+        },
+        {
+            "code": "tfueEAT",
+            "emoticon_set": 13153,
+            "id": 1850892
+        },
+        {
+            "code": "tfueCLOWN",
+            "emoticon_set": 13153,
+            "id": 300764875
+        },
+        {
+            "code": "tfue20",
+            "emoticon_set": 13153,
+            "id": 304393924
+        },
+        {
+            "code": "tfue30",
+            "emoticon_set": 13153,
+            "id": 304393928
+        },
+        {
+            "code": "tfue40",
+            "emoticon_set": 13153,
+            "id": 304393932
+        },
+        {
+            "code": "tfueBAILEY",
+            "emoticon_set": 13153,
+            "id": 304393936
+        },
+        {
+            "code": "tfueXena",
+            "emoticon_set": 13153,
+            "id": 304393939
+        },
+        {
+            "code": "tfueCMONBRUH",
+            "emoticon_set": 13153,
+            "id": 304393950
+        },
+        {
+            "code": "tfueFIRE",
+            "emoticon_set": 13153,
+            "id": 304393957
+        },
+        {
+            "code": "tfueKEK",
+            "emoticon_set": 13153,
+            "id": 304393962
+        },
+        {
+            "code": "tfueHEART",
+            "emoticon_set": 13153,
+            "id": 304393964
+        },
+        {
+            "code": "tfueLOL",
+            "emoticon_set": 13153,
+            "id": 304393976
+        },
+        {
+            "code": "tfueMONKA",
+            "emoticon_set": 13153,
+            "id": 304393981
+        },
+        {
+            "code": "tfueON",
+            "emoticon_set": 13153,
+            "id": 304393985
+        },
+        {
+            "code": "tfuePOO",
+            "emoticon_set": 13153,
+            "id": 304393997
+        },
+        {
+            "code": "tfueRAID",
+            "emoticon_set": 13153,
+            "id": 304394000
+        },
+        {
+            "code": "tfueRATCLOWN",
+            "emoticon_set": 13153,
+            "id": 304394012
+        },
+        {
+            "code": "tfueRIP",
+            "emoticon_set": 13153,
+            "id": 304394022
+        },
+        {
+            "code": "tfueBOT",
+            "emoticon_set": 13153,
+            "id": 304394027
+        },
+        {
+            "code": "tfueMUSIC",
+            "emoticon_set": 13153,
+            "id": 304394033
+        },
+        {
+            "code": "tfueRAT",
+            "emoticon_set": 13153,
+            "id": 304398661
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/14d603df-8a4a-45d4-a891-58c9ee289cc9/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/14d603df-8a4a-45d4-a891-58c9ee289cc9/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/14d603df-8a4a-45d4-a891-58c9ee289cc9/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7a2c805b-36f7-417a-8683-f86a44088fdb/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7a2c805b-36f7-417a-8683-f86a44088fdb/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7a2c805b-36f7-417a-8683-f86a44088fdb/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7abebc14-6070-49b6-b9aa-4513fa73ffc8/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7abebc14-6070-49b6-b9aa-4513fa73ffc8/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7abebc14-6070-49b6-b9aa-4513fa73ffc8/3",
+            "title": "6-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/26d8b36b-7fed-4dac-8e7b-6dde2a75ac83/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/26d8b36b-7fed-4dac-8e7b-6dde2a75ac83/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/26d8b36b-7fed-4dac-8e7b-6dde2a75ac83/3",
+            "title": "1-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0696ace8-4d3c-42c6-b312-389bd2934717/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0696ace8-4d3c-42c6-b312-389bd2934717/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0696ace8-4d3c-42c6-b312-389bd2934717/3",
+            "title": "2-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": null,
+    "base_set_id": "13153",
+    "display_name": "Tfue",
+    "generated_at": "2021-05-19T11:02:51Z"
+}

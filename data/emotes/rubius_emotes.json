@@ -1,0 +1,407 @@
+{
+    "channel_name": "rubius",
+    "channel_id": "39276140",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "5567",
+        "$9.99": "40948",
+        "$24.99": "40949"
+    },
+    "emotes": [
+        {
+            "code": "ruvAsco",
+            "emoticon_set": 5567,
+            "id": 1552045
+        },
+        {
+            "code": "ruvSeh",
+            "emoticon_set": 5567,
+            "id": 1552046
+        },
+        {
+            "code": "ruvWilson",
+            "emoticon_set": 5567,
+            "id": 1566988
+        },
+        {
+            "code": "ruvPrime",
+            "emoticon_set": 5567,
+            "id": 1574588
+        },
+        {
+            "code": "ruvAngry",
+            "emoticon_set": 5567,
+            "id": 1604981
+        },
+        {
+            "code": "ruvFeels",
+            "emoticon_set": 5567,
+            "id": 1661269
+        },
+        {
+            "code": "ruvReee",
+            "emoticon_set": 5567,
+            "id": 1661273
+        },
+        {
+            "code": "ruvKhe",
+            "emoticon_set": 5567,
+            "id": 1710708
+        },
+        {
+            "code": "ruvPhone",
+            "emoticon_set": 5567,
+            "id": 1829356
+        },
+        {
+            "code": "ruvNice",
+            "emoticon_set": 5567,
+            "id": 1829456
+        },
+        {
+            "code": "ruvMalo",
+            "emoticon_set": 5567,
+            "id": 1829471
+        },
+        {
+            "code": "ruvMIEDO",
+            "emoticon_set": 5567,
+            "id": 1917665
+        },
+        {
+            "code": "ruvVape",
+            "emoticon_set": 5567,
+            "id": 1917667
+        },
+        {
+            "code": "ruvFOCUS",
+            "emoticon_set": 5567,
+            "id": 1917668
+        },
+        {
+            "code": "ruv2IQ",
+            "emoticon_set": 5567,
+            "id": 1917670
+        },
+        {
+            "code": "ruv600IQ",
+            "emoticon_set": 5567,
+            "id": 1917671
+        },
+        {
+            "code": "ruvGun",
+            "emoticon_set": 5567,
+            "id": 1917689
+        },
+        {
+            "code": "ruvGasm",
+            "emoticon_set": 5567,
+            "id": 300107440
+        },
+        {
+            "code": "ruvTacos",
+            "emoticon_set": 5567,
+            "id": 300494445
+        },
+        {
+            "code": "ruvAYAYA",
+            "emoticon_set": 5567,
+            "id": 300555766
+        },
+        {
+            "code": "ruvL",
+            "emoticon_set": 5567,
+            "id": 300939373
+        },
+        {
+            "code": "ruvRaspy",
+            "emoticon_set": 5567,
+            "id": 301091084
+        },
+        {
+            "code": "ruvToxic",
+            "emoticon_set": 5567,
+            "id": 301091091
+        },
+        {
+            "code": "ruvPaw",
+            "emoticon_set": 5567,
+            "id": 301091093
+        },
+        {
+            "code": "ruvOso",
+            "emoticon_set": 5567,
+            "id": 301091095
+        },
+        {
+            "code": "ruvN",
+            "emoticon_set": 5567,
+            "id": 301091103
+        },
+        {
+            "code": "ruvFBI",
+            "emoticon_set": 5567,
+            "id": 301091106
+        },
+        {
+            "code": "ruvAFK",
+            "emoticon_set": 5567,
+            "id": 301091108
+        },
+        {
+            "code": "ruvPlebs",
+            "emoticon_set": 5567,
+            "id": 301091111
+        },
+        {
+            "code": "ruvKe4",
+            "emoticon_set": 5567,
+            "id": 301091218
+        },
+        {
+            "code": "ruvKe3",
+            "emoticon_set": 5567,
+            "id": 301091219
+        },
+        {
+            "code": "ruvKe2",
+            "emoticon_set": 5567,
+            "id": 301091220
+        },
+        {
+            "code": "ruvKe1",
+            "emoticon_set": 5567,
+            "id": 301091221
+        },
+        {
+            "code": "ruvKEKW",
+            "emoticon_set": 5567,
+            "id": 301140946
+        },
+        {
+            "code": "ruvCi",
+            "emoticon_set": 5567,
+            "id": 301329494
+        },
+        {
+            "code": "ruvNo",
+            "emoticon_set": 5567,
+            "id": 301329496
+        },
+        {
+            "code": "ruvFL",
+            "emoticon_set": 5567,
+            "id": 301653049
+        },
+        {
+            "code": "ruvH",
+            "emoticon_set": 5567,
+            "id": 301653072
+        },
+        {
+            "code": "ruvJoy",
+            "emoticon_set": 5567,
+            "id": 301653077
+        },
+        {
+            "code": "ruvC",
+            "emoticon_set": 5567,
+            "id": 301653086
+        },
+        {
+            "code": "ruvRare",
+            "emoticon_set": 5567,
+            "id": 301653098
+        },
+        {
+            "code": "ruvPog",
+            "emoticon_set": 5567,
+            "id": 302203567
+        },
+        {
+            "code": "ruvCARRIED",
+            "emoticon_set": 5567,
+            "id": 302203659
+        },
+        {
+            "code": "ruvHart",
+            "emoticon_set": 5567,
+            "id": 302203679
+        },
+        {
+            "code": "ruvComfy",
+            "emoticon_set": 5567,
+            "id": 302203698
+        },
+        {
+            "code": "ruvCiego",
+            "emoticon_set": 5567,
+            "id": 302204791
+        },
+        {
+            "code": "ruvBless",
+            "emoticon_set": 5567,
+            "id": 302921732
+        },
+        {
+            "code": "ruvTonks",
+            "emoticon_set": 5567,
+            "id": 302921747
+        },
+        {
+            "code": "ruvWc",
+            "emoticon_set": 5567,
+            "id": 302921753
+        },
+        {
+            "code": "ruvTexto",
+            "emoticon_set": 5567,
+            "id": 302921755
+        },
+        {
+            "code": "ruvWeird",
+            "emoticon_set": 5567,
+            "id": 302921757
+        },
+        {
+            "code": "ruvExe",
+            "emoticon_set": 5567,
+            "id": 302921761
+        },
+        {
+            "code": "ruvDross",
+            "emoticon_set": 5567,
+            "id": 304069469
+        },
+        {
+            "code": "ruvBobo",
+            "emoticon_set": 5567,
+            "id": 304069473
+        },
+        {
+            "code": "ruvLeep",
+            "emoticon_set": 5567,
+            "id": 304069484
+        },
+        {
+            "code": "ruvRich",
+            "emoticon_set": 5567,
+            "id": 304069498
+        },
+        {
+            "code": "ruvNotStnks",
+            "emoticon_set": 5567,
+            "id": 304069505
+        },
+        {
+            "code": "ruvCam",
+            "emoticon_set": 5567,
+            "id": 304074008
+        },
+        {
+            "code": "ruvSad",
+            "emoticon_set": 5567,
+            "id": 306589235
+        },
+        {
+            "code": "ruvOld",
+            "emoticon_set": 5567,
+            "id": 306706010
+        },
+        {
+            "code": "ruvSilver",
+            "emoticon_set": 40948,
+            "id": 1829412
+        },
+        {
+            "code": "ruvGold",
+            "emoticon_set": 40949,
+            "id": 1829422
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/cf05f4c0-c751-437a-88b2-0512ce1821a9/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/cf05f4c0-c751-437a-88b2-0512ce1821a9/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/cf05f4c0-c751-437a-88b2-0512ce1821a9/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ec5bfef5-2e1c-4248-8503-4b3fd6842ca6/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ec5bfef5-2e1c-4248-8503-4b3fd6842ca6/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ec5bfef5-2e1c-4248-8503-4b3fd6842ca6/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9dc5c607-b07a-49b3-abf0-0076f50080f6/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9dc5c607-b07a-49b3-abf0-0076f50080f6/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9dc5c607-b07a-49b3-abf0-0076f50080f6/3",
+            "title": "6-Month Subscriber"
+        },
+        "9": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/66c4200b-096b-4edf-b065-af1d5049d8da/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/66c4200b-096b-4edf-b065-af1d5049d8da/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/66c4200b-096b-4edf-b065-af1d5049d8da/3",
+            "title": "9-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b629e60d-1285-4f1a-a42e-b220e9bf1125/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b629e60d-1285-4f1a-a42e-b220e9bf1125/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b629e60d-1285-4f1a-a42e-b220e9bf1125/3",
+            "title": "1-Year Subscriber"
+        },
+        "18": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6ba674b9-5dc7-44b4-aa53-29a7cda941f3/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6ba674b9-5dc7-44b4-aa53-29a7cda941f3/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6ba674b9-5dc7-44b4-aa53-29a7cda941f3/3",
+            "title": "1.5-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/4b890473-b780-4be8-9c76-d52915b6bfd2/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/4b890473-b780-4be8-9c76-d52915b6bfd2/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4b890473-b780-4be8-9c76-d52915b6bfd2/3",
+            "title": "2-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": {
+        "1": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1/light/animated/4.gif"
+        },
+        "100": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/100/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/100/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/100/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/100/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/100/light/animated/4.gif"
+        },
+        "1000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/1000/light/animated/4.gif"
+        },
+        "5000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/5000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/5000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/5000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/5000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/5000/light/animated/4.gif"
+        },
+        "10000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/10000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/10000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/10000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/10000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/39276140/77e7e31c-ea6f-4171-b792-2aec9ac48351/10000/light/animated/4.gif"
+        }
+    },
+    "base_set_id": "5567",
+    "display_name": "Rubius",
+    "generated_at": "2021-05-19T11:02:50Z"
+}

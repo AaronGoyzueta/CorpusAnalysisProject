@@ -1,0 +1,370 @@
+{
+    "channel_name": "ludwig",
+    "channel_id": "40934651",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "508189",
+        "$9.99": "508190",
+        "$24.99": "508191"
+    },
+    "emotes": [
+        {
+            "code": "ludwigStar",
+            "emoticon_set": 508189,
+            "id": 650815
+        },
+        {
+            "code": "ludwigHi",
+            "emoticon_set": 508189,
+            "id": 1366705
+        },
+        {
+            "code": "ludwigLove",
+            "emoticon_set": 508189,
+            "id": 1367069
+        },
+        {
+            "code": "ludwigA",
+            "emoticon_set": 508189,
+            "id": 1369483
+        },
+        {
+            "code": "ludwigRelax",
+            "emoticon_set": 508189,
+            "id": 1388237
+        },
+        {
+            "code": "ludwigC",
+            "emoticon_set": 508189,
+            "id": 1431644
+        },
+        {
+            "code": "ludwigMagnum",
+            "emoticon_set": 508189,
+            "id": 1431656
+        },
+        {
+            "code": "ludwigHypers",
+            "emoticon_set": 508189,
+            "id": 1467586
+        },
+        {
+            "code": "ludwig7",
+            "emoticon_set": 508189,
+            "id": 1646084
+        },
+        {
+            "code": "ludwigU",
+            "emoticon_set": 508189,
+            "id": 1722086
+        },
+        {
+            "code": "ludwigS",
+            "emoticon_set": 508189,
+            "id": 2040750
+        },
+        {
+            "code": "ludwigGun",
+            "emoticon_set": 508189,
+            "id": 2051366
+        },
+        {
+            "code": "ludwigBoomer",
+            "emoticon_set": 508189,
+            "id": 2100095
+        },
+        {
+            "code": "ludwigChoke",
+            "emoticon_set": 508189,
+            "id": 300049625
+        },
+        {
+            "code": "ludwigT",
+            "emoticon_set": 508189,
+            "id": 300376762
+        },
+        {
+            "code": "ludwigPride",
+            "emoticon_set": 508189,
+            "id": 300376763
+        },
+        {
+            "code": "ludwigKiss",
+            "emoticon_set": 508189,
+            "id": 300391375
+        },
+        {
+            "code": "ludwigGamer",
+            "emoticon_set": 508189,
+            "id": 300437828
+        },
+        {
+            "code": "ludwigFold",
+            "emoticon_set": 508189,
+            "id": 300547120
+        },
+        {
+            "code": "ludwigDoc",
+            "emoticon_set": 508189,
+            "id": 300547371
+        },
+        {
+            "code": "ludwigNarc",
+            "emoticon_set": 508189,
+            "id": 300561115
+        },
+        {
+            "code": "ludwigAwooga",
+            "emoticon_set": 508189,
+            "id": 300596344
+        },
+        {
+            "code": "ludwigWC",
+            "emoticon_set": 508189,
+            "id": 300596363
+        },
+        {
+            "code": "ludwigBan",
+            "emoticon_set": 508189,
+            "id": 300773907
+        },
+        {
+            "code": "ludwigPants",
+            "emoticon_set": 508189,
+            "id": 300864395
+        },
+        {
+            "code": "ludwigCroc",
+            "emoticon_set": 508189,
+            "id": 300913898
+        },
+        {
+            "code": "ludwigF",
+            "emoticon_set": 508189,
+            "id": 300923629
+        },
+        {
+            "code": "ludwigBlanket",
+            "emoticon_set": 508189,
+            "id": 300923633
+        },
+        {
+            "code": "ludwigW",
+            "emoticon_set": 508189,
+            "id": 300923693
+        },
+        {
+            "code": "ludwigCute",
+            "emoticon_set": 508189,
+            "id": 300934042
+        },
+        {
+            "code": "ludwigStinky",
+            "emoticon_set": 508189,
+            "id": 300978616
+        },
+        {
+            "code": "ludwigPoggert",
+            "emoticon_set": 508189,
+            "id": 301058328
+        },
+        {
+            "code": "ludwigFarm",
+            "emoticon_set": 508189,
+            "id": 301278301
+        },
+        {
+            "code": "ludwigYikes",
+            "emoticon_set": 508189,
+            "id": 301278302
+        },
+        {
+            "code": "ludwigG",
+            "emoticon_set": 508189,
+            "id": 301278316
+        },
+        {
+            "code": "ludwigIRS",
+            "emoticon_set": 508189,
+            "id": 301278321
+        },
+        {
+            "code": "ludwigYuck",
+            "emoticon_set": 508189,
+            "id": 301445839
+        },
+        {
+            "code": "ludwigTails",
+            "emoticon_set": 508189,
+            "id": 301767247
+        },
+        {
+            "code": "ludwigHeads",
+            "emoticon_set": 508189,
+            "id": 301767253
+        },
+        {
+            "code": "ludwigPeepawsad",
+            "emoticon_set": 508189,
+            "id": 301879938
+        },
+        {
+            "code": "ludwigPeepawhappy",
+            "emoticon_set": 508189,
+            "id": 301879941
+        },
+        {
+            "code": "ludwigBRB",
+            "emoticon_set": 508189,
+            "id": 301880095
+        },
+        {
+            "code": "ludwigMald",
+            "emoticon_set": 508189,
+            "id": 301880099
+        },
+        {
+            "code": "ludwigWow",
+            "emoticon_set": 508189,
+            "id": 301880105
+        },
+        {
+            "code": "ludwigBANGER",
+            "emoticon_set": 508189,
+            "id": 301881307
+        },
+        {
+            "code": "ludwigJr",
+            "emoticon_set": 508189,
+            "id": 302221218
+        },
+        {
+            "code": "ludwigK",
+            "emoticon_set": 508189,
+            "id": 303376152
+        },
+        {
+            "code": "ludwigFat",
+            "emoticon_set": 508189,
+            "id": 305803664
+        },
+        {
+            "code": "ludwigFriend",
+            "emoticon_set": 508189,
+            "id": 305803668
+        },
+        {
+            "code": "ludwigNot",
+            "emoticon_set": 508189,
+            "id": 305803691
+        },
+        {
+            "code": "ludwigSlim",
+            "emoticon_set": 508189,
+            "id": 306108283
+        },
+        {
+            "code": "ludwig3",
+            "emoticon_set": 508189,
+            "id": 306259680
+        },
+        {
+            "code": "ludwigFan",
+            "emoticon_set": 508189,
+            "id": 306515036
+        },
+        {
+            "code": "ludwigSad",
+            "emoticon_set": 508189,
+            "id": 306515041
+        },
+        {
+            "code": "ludwigPrime",
+            "emoticon_set": 508189,
+            "id": 306515044
+        },
+        {
+            "code": "ludwigScam",
+            "emoticon_set": 508189,
+            "id": 306515050
+        },
+        {
+            "code": "ludwigSip",
+            "emoticon_set": 508189,
+            "id": 306515053
+        },
+        {
+            "code": "ludwigSleep",
+            "emoticon_set": 508189,
+            "id": 306515057
+        },
+        {
+            "code": "ludwigFrog",
+            "emoticon_set": 508189,
+            "id": 306515062
+        },
+        {
+            "code": "ludwigGasm",
+            "emoticon_set": 508189,
+            "id": 307284888
+        },
+        {
+            "code": "ludwig1",
+            "emoticon_set": 508190,
+            "id": 306515066
+        },
+        {
+            "code": "ludwig2",
+            "emoticon_set": 508190,
+            "id": 306515069
+        },
+        {
+            "code": "ludwigRun",
+            "emoticon_set": 508190,
+            "id": 306515080
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/679dd152-83fc-40ca-b1eb-8ffa713d7136/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/679dd152-83fc-40ca-b1eb-8ffa713d7136/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/679dd152-83fc-40ca-b1eb-8ffa713d7136/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/23fb74a7-7510-42ce-bf6c-a82b2d9d4bad/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/23fb74a7-7510-42ce-bf6c-a82b2d9d4bad/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/23fb74a7-7510-42ce-bf6c-a82b2d9d4bad/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/384a25c1-1d86-4672-b5b5-40511b7f9b4e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/384a25c1-1d86-4672-b5b5-40511b7f9b4e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/384a25c1-1d86-4672-b5b5-40511b7f9b4e/3",
+            "title": "6-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ff6a7faa-7ada-4536-89a5-57e91e41826f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ff6a7faa-7ada-4536-89a5-57e91e41826f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ff6a7faa-7ada-4536-89a5-57e91e41826f/3",
+            "title": "1-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/149fee2b-9865-491d-b37a-feadc1a3012f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/149fee2b-9865-491d-b37a-feadc1a3012f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/149fee2b-9865-491d-b37a-feadc1a3012f/3",
+            "title": "2-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0834b8d8-8323-4974-be94-3ed52fce16cf/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0834b8d8-8323-4974-be94-3ed52fce16cf/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0834b8d8-8323-4974-be94-3ed52fce16cf/3",
+            "title": "3-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": null,
+    "base_set_id": "508189",
+    "display_name": "Ludwig",
+    "generated_at": "2021-05-19T11:03:22Z"
+}

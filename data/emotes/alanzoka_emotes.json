@@ -1,0 +1,420 @@
+{
+    "channel_name": "alanzoka",
+    "channel_id": "38244180",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "2927",
+        "$9.99": "40476",
+        "$24.99": "40477"
+    },
+    "emotes": [
+        {
+            "code": "alanzB",
+            "emoticon_set": 2927,
+            "id": 304116017
+        },
+        {
+            "code": "alanzAmor",
+            "emoticon_set": 2927,
+            "id": 304116019
+        },
+        {
+            "code": "alanz18",
+            "emoticon_set": 2927,
+            "id": 304116022
+        },
+        {
+            "code": "alanzAP",
+            "emoticon_set": 2927,
+            "id": 304116025
+        },
+        {
+            "code": "alanzAYAYA",
+            "emoticon_set": 2927,
+            "id": 304116029
+        },
+        {
+            "code": "alanzCafe",
+            "emoticon_set": 2927,
+            "id": 304116034
+        },
+        {
+            "code": "alanzCash",
+            "emoticon_set": 2927,
+            "id": 304116037
+        },
+        {
+            "code": "alanzCego",
+            "emoticon_set": 2927,
+            "id": 304116040
+        },
+        {
+            "code": "alanzComida",
+            "emoticon_set": 2927,
+            "id": 304116041
+        },
+        {
+            "code": "alanzD",
+            "emoticon_set": 2927,
+            "id": 304116044
+        },
+        {
+            "code": "alanzDe",
+            "emoticon_set": 2927,
+            "id": 304116045
+        },
+        {
+            "code": "alanzDerp",
+            "emoticon_set": 2927,
+            "id": 304116047
+        },
+        {
+            "code": "alanzDez",
+            "emoticon_set": 2927,
+            "id": 304116049
+        },
+        {
+            "code": "alanzEx",
+            "emoticon_set": 2927,
+            "id": 304116051
+        },
+        {
+            "code": "alanzEZ",
+            "emoticon_set": 2927,
+            "id": 304116054
+        },
+        {
+            "code": "alanzFeels",
+            "emoticon_set": 2927,
+            "id": 304116056
+        },
+        {
+            "code": "alanzFine",
+            "emoticon_set": 2927,
+            "id": 304116057
+        },
+        {
+            "code": "alanzFofo",
+            "emoticon_set": 2927,
+            "id": 304116060
+        },
+        {
+            "code": "alanzFP",
+            "emoticon_set": 2927,
+            "id": 304116063
+        },
+        {
+            "code": "alanzGift",
+            "emoticon_set": 2927,
+            "id": 304116064
+        },
+        {
+            "code": "alanzGorfo",
+            "emoticon_set": 2927,
+            "id": 304116069
+        },
+        {
+            "code": "alanzGun",
+            "emoticon_set": 2927,
+            "id": 304116071
+        },
+        {
+            "code": "alanzHype",
+            "emoticon_set": 2927,
+            "id": 304116075
+        },
+        {
+            "code": "alanzIgnore",
+            "emoticon_set": 2927,
+            "id": 304116078
+        },
+        {
+            "code": "alanzL",
+            "emoticon_set": 2927,
+            "id": 304116079
+        },
+        {
+            "code": "alanzLoot",
+            "emoticon_set": 2927,
+            "id": 304116081
+        },
+        {
+            "code": "alanzLUL",
+            "emoticon_set": 2927,
+            "id": 304116082
+        },
+        {
+            "code": "alanzLupa",
+            "emoticon_set": 2927,
+            "id": 304116086
+        },
+        {
+            "code": "alanzM",
+            "emoticon_set": 2927,
+            "id": 304116089
+        },
+        {
+            "code": "alanzMaethe",
+            "emoticon_set": 2927,
+            "id": 304116090
+        },
+        {
+            "code": "alanzS",
+            "emoticon_set": 2927,
+            "id": 304116095
+        },
+        {
+            "code": "alanzNote",
+            "emoticon_set": 2927,
+            "id": 304116096
+        },
+        {
+            "code": "alanzP",
+            "emoticon_set": 2927,
+            "id": 304116098
+        },
+        {
+            "code": "alanzPOP",
+            "emoticon_set": 2927,
+            "id": 304116099
+        },
+        {
+            "code": "alanzPuzzle",
+            "emoticon_set": 2927,
+            "id": 304116100
+        },
+        {
+            "code": "alanzQ",
+            "emoticon_set": 2927,
+            "id": 304116101
+        },
+        {
+            "code": "alanzR",
+            "emoticon_set": 2927,
+            "id": 304116102
+        },
+        {
+            "code": "alanzReza",
+            "emoticon_set": 2927,
+            "id": 304116104
+        },
+        {
+            "code": "alanzRun",
+            "emoticon_set": 2927,
+            "id": 304116105
+        },
+        {
+            "code": "alanzSad",
+            "emoticon_set": 2927,
+            "id": 304116107
+        },
+        {
+            "code": "alanzSensual",
+            "emoticon_set": 2927,
+            "id": 304116109
+        },
+        {
+            "code": "alanzSip",
+            "emoticon_set": 2927,
+            "id": 304116110
+        },
+        {
+            "code": "alanzSmart",
+            "emoticon_set": 2927,
+            "id": 304116113
+        },
+        {
+            "code": "alanzSTOP",
+            "emoticon_set": 2927,
+            "id": 304116116
+        },
+        {
+            "code": "alanzSusto",
+            "emoticon_set": 2927,
+            "id": 304116118
+        },
+        {
+            "code": "alanzThink",
+            "emoticon_set": 2927,
+            "id": 304116120
+        },
+        {
+            "code": "alanzScheme",
+            "emoticon_set": 2927,
+            "id": 304116122
+        },
+        {
+            "code": "alanzSono",
+            "emoticon_set": 2927,
+            "id": 304116124
+        },
+        {
+            "code": "alanzShrug",
+            "emoticon_set": 2927,
+            "id": 304116131
+        },
+        {
+            "code": "alanzTa",
+            "emoticon_set": 2927,
+            "id": 304116157
+        },
+        {
+            "code": "alanzK",
+            "emoticon_set": 2927,
+            "id": 304116160
+        },
+        {
+            "code": "alanzAopa",
+            "emoticon_set": 2927,
+            "id": 304316657
+        },
+        {
+            "code": "alanzChef",
+            "emoticon_set": 2927,
+            "id": 304316660
+        },
+        {
+            "code": "alanzCrise",
+            "emoticon_set": 2927,
+            "id": 304316668
+        },
+        {
+            "code": "alanzEllie",
+            "emoticon_set": 2927,
+            "id": 304316671
+        },
+        {
+            "code": "alanzMega",
+            "emoticon_set": 2927,
+            "id": 304316675
+        },
+        {
+            "code": "alanzPat",
+            "emoticon_set": 2927,
+            "id": 304316680
+        },
+        {
+            "code": "alanzPlease",
+            "emoticon_set": 2927,
+            "id": 304316683
+        },
+        {
+            "code": "alanzRemy",
+            "emoticon_set": 2927,
+            "id": 304318237
+        },
+        {
+            "code": "alanzWine",
+            "emoticon_set": 2927,
+            "id": 304360070
+        },
+        {
+            "code": "alanzConfy",
+            "emoticon_set": 40476,
+            "id": 304116134
+        },
+        {
+            "code": "alanzHug",
+            "emoticon_set": 40477,
+            "id": 304116136
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c6e06683-7d2b-4718-81b7-20ed8e6bbc83/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c6e06683-7d2b-4718-81b7-20ed8e6bbc83/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c6e06683-7d2b-4718-81b7-20ed8e6bbc83/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a27961a9-3fa4-4ed1-a266-4617175b8da3/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a27961a9-3fa4-4ed1-a266-4617175b8da3/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a27961a9-3fa4-4ed1-a266-4617175b8da3/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/62e006ef-7431-418e-8850-7a413bda0c78/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/62e006ef-7431-418e-8850-7a413bda0c78/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/62e006ef-7431-418e-8850-7a413bda0c78/3",
+            "title": "6-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3c9645d8-83eb-41ae-97e9-9c352a4fa58a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3c9645d8-83eb-41ae-97e9-9c352a4fa58a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3c9645d8-83eb-41ae-97e9-9c352a4fa58a/3",
+            "title": "1-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5f38a0df-928f-4be3-9412-01a1e168884f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5f38a0df-928f-4be3-9412-01a1e168884f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5f38a0df-928f-4be3-9412-01a1e168884f/3",
+            "title": "2-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7d8124f5-d96b-4ff1-9a4c-a2f3615d50f5/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7d8124f5-d96b-4ff1-9a4c-a2f3615d50f5/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7d8124f5-d96b-4ff1-9a4c-a2f3615d50f5/3",
+            "title": "3-Year Subscriber"
+        }
+    },
+    "bits_badges": {
+        "1": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b0c196fa-56c8-4d0e-95cc-0be502302e93/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b0c196fa-56c8-4d0e-95cc-0be502302e93/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b0c196fa-56c8-4d0e-95cc-0be502302e93/3",
+            "title": "cheer 1"
+        },
+        "100": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/75edc015-9c3f-41ab-92d7-e61894f9c54e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/75edc015-9c3f-41ab-92d7-e61894f9c54e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/75edc015-9c3f-41ab-92d7-e61894f9c54e/3",
+            "title": "cheer 100"
+        },
+        "1000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/64ae7b15-3ac2-43d1-8413-fe393d387897/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/64ae7b15-3ac2-43d1-8413-fe393d387897/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/64ae7b15-3ac2-43d1-8413-fe393d387897/3",
+            "title": "cheer 1000"
+        },
+        "5000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c24516d2-8113-48c1-a640-06666fefb453/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c24516d2-8113-48c1-a640-06666fefb453/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c24516d2-8113-48c1-a640-06666fefb453/3",
+            "title": "cheer 5000"
+        },
+        "10000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d95f0a40-6a2e-4cbb-91eb-dd7fb9b77fa5/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d95f0a40-6a2e-4cbb-91eb-dd7fb9b77fa5/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d95f0a40-6a2e-4cbb-91eb-dd7fb9b77fa5/3",
+            "title": "cheer 10000"
+        },
+        "25000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/decf519c-50d2-43be-a4fc-68283bd65dbf/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/decf519c-50d2-43be-a4fc-68283bd65dbf/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/decf519c-50d2-43be-a4fc-68283bd65dbf/3",
+            "title": "cheer 25000"
+        },
+        "50000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2465144a-9da5-4759-a86f-d973c920e703/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2465144a-9da5-4759-a86f-d973c920e703/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2465144a-9da5-4759-a86f-d973c920e703/3",
+            "title": "cheer 50000"
+        },
+        "75000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/1a086acf-dd4e-446a-aeca-69e989fcb582/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/1a086acf-dd4e-446a-aeca-69e989fcb582/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/1a086acf-dd4e-446a-aeca-69e989fcb582/3",
+            "title": "cheer 75000"
+        },
+        "100000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/45601969-7787-47e6-9b5f-a482a82af7e5/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/45601969-7787-47e6-9b5f-a482a82af7e5/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/45601969-7787-47e6-9b5f-a482a82af7e5/3",
+            "title": "cheer 100000"
+        }
+    },
+    "cheermotes": null,
+    "base_set_id": "2927",
+    "display_name": "Alanzoka",
+    "generated_at": "2021-05-19T11:02:50Z"
+}

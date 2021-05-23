@@ -1,0 +1,392 @@
+{
+    "channel_name": "timthetatman",
+    "channel_id": "36769016",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "1159",
+        "$9.99": "26298",
+        "$24.99": "26299"
+    },
+    "emotes": [
+        {
+            "code": "tatChair",
+            "emoticon_set": 1159,
+            "id": 8408
+        },
+        {
+            "code": "tatPreach",
+            "emoticon_set": 1159,
+            "id": 16247
+        },
+        {
+            "code": "tatW",
+            "emoticon_set": 1159,
+            "id": 54495
+        },
+        {
+            "code": "tatPretty",
+            "emoticon_set": 1159,
+            "id": 60643
+        },
+        {
+            "code": "tatMesa",
+            "emoticon_set": 1159,
+            "id": 86639
+        },
+        {
+            "code": "tatSuh",
+            "emoticon_set": 1159,
+            "id": 87756
+        },
+        {
+            "code": "tatOshi",
+            "emoticon_set": 1159,
+            "id": 89232
+        },
+        {
+            "code": "tatPik",
+            "emoticon_set": 1159,
+            "id": 92258
+        },
+        {
+            "code": "tatY",
+            "emoticon_set": 1159,
+            "id": 97067
+        },
+        {
+            "code": "tatH",
+            "emoticon_set": 1159,
+            "id": 106925
+        },
+        {
+            "code": "tatGlam",
+            "emoticon_set": 1159,
+            "id": 145662
+        },
+        {
+            "code": "tatKevinM",
+            "emoticon_set": 1159,
+            "id": 185313
+        },
+        {
+            "code": "tatNOLINKS",
+            "emoticon_set": 1159,
+            "id": 185315
+        },
+        {
+            "code": "tatTopD",
+            "emoticon_set": 1159,
+            "id": 185316
+        },
+        {
+            "code": "tatPotato",
+            "emoticon_set": 1159,
+            "id": 187153
+        },
+        {
+            "code": "tatToxic",
+            "emoticon_set": 1159,
+            "id": 187155
+        },
+        {
+            "code": "tatKevinS",
+            "emoticon_set": 1159,
+            "id": 187159
+        },
+        {
+            "code": "tatTank",
+            "emoticon_set": 1159,
+            "id": 708603
+        },
+        {
+            "code": "tatWink",
+            "emoticon_set": 1159,
+            "id": 720524
+        },
+        {
+            "code": "tatLATE",
+            "emoticon_set": 1159,
+            "id": 972382
+        },
+        {
+            "code": "tatHYPERS",
+            "emoticon_set": 1159,
+            "id": 1058125
+        },
+        {
+            "code": "tatWC",
+            "emoticon_set": 1159,
+            "id": 1294993
+        },
+        {
+            "code": "tatTHIRST",
+            "emoticon_set": 1159,
+            "id": 1308379
+        },
+        {
+            "code": "tatTomato",
+            "emoticon_set": 1159,
+            "id": 1317421
+        },
+        {
+            "code": "tatRoad",
+            "emoticon_set": 1159,
+            "id": 1330097
+        },
+        {
+            "code": "tatDMG",
+            "emoticon_set": 1159,
+            "id": 1343473
+        },
+        {
+            "code": "tatLit",
+            "emoticon_set": 1159,
+            "id": 1599586
+        },
+        {
+            "code": "tatGift",
+            "emoticon_set": 1159,
+            "id": 1603328
+        },
+        {
+            "code": "tatPirate",
+            "emoticon_set": 1159,
+            "id": 1859035
+        },
+        {
+            "code": "tatMad",
+            "emoticon_set": 1159,
+            "id": 1859043
+        },
+        {
+            "code": "tatBlind",
+            "emoticon_set": 1159,
+            "id": 1921103
+        },
+        {
+            "code": "tatHmm",
+            "emoticon_set": 1159,
+            "id": 1921106
+        },
+        {
+            "code": "tatBot",
+            "emoticon_set": 1159,
+            "id": 1921775
+        },
+        {
+            "code": "tatYEET",
+            "emoticon_set": 1159,
+            "id": 2092155
+        },
+        {
+            "code": "tatBruh",
+            "emoticon_set": 1159,
+            "id": 300196474
+        },
+        {
+            "code": "tatMald",
+            "emoticon_set": 1159,
+            "id": 301065424
+        },
+        {
+            "code": "tatEgg1",
+            "emoticon_set": 1159,
+            "id": 302461364
+        },
+        {
+            "code": "tatEgg2",
+            "emoticon_set": 1159,
+            "id": 302461369
+        },
+        {
+            "code": "tatEgg3",
+            "emoticon_set": 1159,
+            "id": 302461378
+        },
+        {
+            "code": "tatEgg4",
+            "emoticon_set": 1159,
+            "id": 302461387
+        },
+        {
+            "code": "tatS",
+            "emoticon_set": 1159,
+            "id": 303041135
+        },
+        {
+            "code": "tatLove",
+            "emoticon_set": 1159,
+            "id": 303108924
+        },
+        {
+            "code": "tatSellout",
+            "emoticon_set": 1159,
+            "id": 303108940
+        },
+        {
+            "code": "tatAFK",
+            "emoticon_set": 1159,
+            "id": 303108944
+        },
+        {
+            "code": "tatFat",
+            "emoticon_set": 1159,
+            "id": 303108946
+        },
+        {
+            "code": "tatPrime",
+            "emoticon_set": 1159,
+            "id": 303108958
+        },
+        {
+            "code": "tatRip",
+            "emoticon_set": 1159,
+            "id": 303109891
+        },
+        {
+            "code": "tatBlanket",
+            "emoticon_set": 1159,
+            "id": 304312258
+        },
+        {
+            "code": "tatKKevin",
+            "emoticon_set": 1159,
+            "id": 304312267
+        },
+        {
+            "code": "tatTUFF",
+            "emoticon_set": 1159,
+            "id": 304312274
+        },
+        {
+            "code": "tatKevinH",
+            "emoticon_set": 1159,
+            "id": 305199053
+        },
+        {
+            "code": "tatBEST",
+            "emoticon_set": 26298,
+            "id": 212548
+        },
+        {
+            "code": "tatBling",
+            "emoticon_set": 26299,
+            "id": 305199057
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f18d2140-dfc0-4037-b8bf-71235e100c3f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f18d2140-dfc0-4037-b8bf-71235e100c3f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f18d2140-dfc0-4037-b8bf-71235e100c3f/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2343820c-5c18-4b0e-b28f-3196c0739a1f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2343820c-5c18-4b0e-b28f-3196c0739a1f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2343820c-5c18-4b0e-b28f-3196c0739a1f/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7f085c9c-f0ae-4435-ad1b-c86e06827a3b/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7f085c9c-f0ae-4435-ad1b-c86e06827a3b/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7f085c9c-f0ae-4435-ad1b-c86e06827a3b/3",
+            "title": "6-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/535bd34f-e892-4ebb-963c-517a485bb4ed/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/535bd34f-e892-4ebb-963c-517a485bb4ed/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/535bd34f-e892-4ebb-963c-517a485bb4ed/3",
+            "title": "1-Year Subscriber"
+        },
+        "18": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/28096b47-753d-4e64-b6a9-98367a510112/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/28096b47-753d-4e64-b6a9-98367a510112/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/28096b47-753d-4e64-b6a9-98367a510112/3",
+            "title": "1.5-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9fe2393a-d122-45a4-a8da-c421ea5771b9/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9fe2393a-d122-45a4-a8da-c421ea5771b9/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9fe2393a-d122-45a4-a8da-c421ea5771b9/3",
+            "title": "2-Year Subscriber"
+        },
+        "30": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/98442a30-fcb3-4028-8ceb-bcfb7cad326a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/98442a30-fcb3-4028-8ceb-bcfb7cad326a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/98442a30-fcb3-4028-8ceb-bcfb7cad326a/3",
+            "title": "2.5-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/de3c83bf-171c-4747-936a-f4449f51be69/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/de3c83bf-171c-4747-936a-f4449f51be69/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/de3c83bf-171c-4747-936a-f4449f51be69/3",
+            "title": "3-Year Subscriber"
+        },
+        "42": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/84ca98be-41d9-40e9-9778-bf2664e2c45c/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/84ca98be-41d9-40e9-9778-bf2664e2c45c/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/84ca98be-41d9-40e9-9778-bf2664e2c45c/3",
+            "title": "3.5-Year Subscriber"
+        },
+        "48": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e1ee1cc5-785d-4405-ae53-ae5d3b73899e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e1ee1cc5-785d-4405-ae53-ae5d3b73899e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e1ee1cc5-785d-4405-ae53-ae5d3b73899e/3",
+            "title": "4-Year Subscriber"
+        },
+        "54": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/133b8cfd-a120-45de-a512-995c29e0b61d/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/133b8cfd-a120-45de-a512-995c29e0b61d/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/133b8cfd-a120-45de-a512-995c29e0b61d/3",
+            "title": "4.5-Year Subscriber"
+        },
+        "60": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6bf65870-cee8-421e-8130-2756e53fa87c/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6bf65870-cee8-421e-8130-2756e53fa87c/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6bf65870-cee8-421e-8130-2756e53fa87c/3",
+            "title": "5-Year Subscriber"
+        },
+        "66": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c286f9f1-2794-471f-a159-4ebd134ddb72/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c286f9f1-2794-471f-a159-4ebd134ddb72/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c286f9f1-2794-471f-a159-4ebd134ddb72/3",
+            "title": "5.5-Year Subscriber"
+        },
+        "72": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c239674a-16ee-4b73-9d76-92f993ec13a4/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c239674a-16ee-4b73-9d76-92f993ec13a4/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c239674a-16ee-4b73-9d76-92f993ec13a4/3",
+            "title": "6-Year Subscriber"
+        },
+        "78": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6952e5bd-57e0-4ae0-b6f9-b16d4a448ce2/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6952e5bd-57e0-4ae0-b6f9-b16d4a448ce2/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6952e5bd-57e0-4ae0-b6f9-b16d4a448ce2/3",
+            "title": "6.5-Year Subscriber"
+        },
+        "84": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/acdd9aea-e9c9-44da-94cc-2c91916f5453/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/acdd9aea-e9c9-44da-94cc-2c91916f5453/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/acdd9aea-e9c9-44da-94cc-2c91916f5453/3",
+            "title": "7-Year Subscriber"
+        },
+        "90": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/238b819a-1fdd-4ea8-b8b6-457fb08eb12e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/238b819a-1fdd-4ea8-b8b6-457fb08eb12e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/238b819a-1fdd-4ea8-b8b6-457fb08eb12e/3",
+            "title": "7.5-Year Subscriber"
+        },
+        "96": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/efa7ce7f-878e-40d8-bdab-5e4651ad525d/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/efa7ce7f-878e-40d8-bdab-5e4651ad525d/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/efa7ce7f-878e-40d8-bdab-5e4651ad525d/3",
+            "title": "8-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": null,
+    "base_set_id": "1159",
+    "display_name": "Timthetatman",
+    "generated_at": "2021-05-19T11:02:50Z"
+}

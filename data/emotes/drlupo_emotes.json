@@ -1,0 +1,544 @@
+{
+    "channel_name": "drlupo",
+    "channel_id": "29829912",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "16547",
+        "$9.99": "25736",
+        "$24.99": "25737"
+    },
+    "emotes": [
+        {
+            "code": "lupoK",
+            "emoticon_set": 16547,
+            "id": 128428
+        },
+        {
+            "code": "lupo1",
+            "emoticon_set": 16547,
+            "id": 827572
+        },
+        {
+            "code": "lupo2",
+            "emoticon_set": 16547,
+            "id": 827573
+        },
+        {
+            "code": "lupo3",
+            "emoticon_set": 16547,
+            "id": 827575
+        },
+        {
+            "code": "lupo4",
+            "emoticon_set": 16547,
+            "id": 827576
+        },
+        {
+            "code": "lupoAIM",
+            "emoticon_set": 16547,
+            "id": 905497
+        },
+        {
+            "code": "lupoBUSH",
+            "emoticon_set": 16547,
+            "id": 905502
+        },
+        {
+            "code": "lupoCAW",
+            "emoticon_set": 16547,
+            "id": 905503
+        },
+        {
+            "code": "lupoCHAIR",
+            "emoticon_set": 16547,
+            "id": 905504
+        },
+        {
+            "code": "lupoCHOO",
+            "emoticon_set": 16547,
+            "id": 905506
+        },
+        {
+            "code": "lupoCORN",
+            "emoticon_set": 16547,
+            "id": 905508
+        },
+        {
+            "code": "lupoGG",
+            "emoticon_set": 16547,
+            "id": 905514
+        },
+        {
+            "code": "lupoGIFT",
+            "emoticon_set": 16547,
+            "id": 905516
+        },
+        {
+            "code": "lupoCREEP",
+            "emoticon_set": 16547,
+            "id": 905522
+        },
+        {
+            "code": "lupoCRINGE",
+            "emoticon_set": 16547,
+            "id": 905525
+        },
+        {
+            "code": "lupoNINJA",
+            "emoticon_set": 16547,
+            "id": 905532
+        },
+        {
+            "code": "lupoRIP",
+            "emoticon_set": 16547,
+            "id": 905537
+        },
+        {
+            "code": "lupoRNG",
+            "emoticon_set": 16547,
+            "id": 905538
+        },
+        {
+            "code": "lupoS",
+            "emoticon_set": 16547,
+            "id": 905539
+        },
+        {
+            "code": "lupoSNEK",
+            "emoticon_set": 16547,
+            "id": 905543
+        },
+        {
+            "code": "lupoTHINK",
+            "emoticon_set": 16547,
+            "id": 905552
+        },
+        {
+            "code": "lupoMEOW",
+            "emoticon_set": 16547,
+            "id": 1279035
+        },
+        {
+            "code": "lupoWOOF",
+            "emoticon_set": 16547,
+            "id": 1279036
+        },
+        {
+            "code": "lupoPOGGERS",
+            "emoticon_set": 16547,
+            "id": 1279049
+        },
+        {
+            "code": "lupoSHARK",
+            "emoticon_set": 16547,
+            "id": 1447288
+        },
+        {
+            "code": "lupoLONK",
+            "emoticon_set": 16547,
+            "id": 1531896
+        },
+        {
+            "code": "lupoRB",
+            "emoticon_set": 16547,
+            "id": 1576969
+        },
+        {
+            "code": "lupoYE",
+            "emoticon_set": 16547,
+            "id": 1576992
+        },
+        {
+            "code": "lupoSHRUG",
+            "emoticon_set": 16547,
+            "id": 1576996
+        },
+        {
+            "code": "lupoOLD",
+            "emoticon_set": 16547,
+            "id": 1577011
+        },
+        {
+            "code": "lupoNERD",
+            "emoticon_set": 16547,
+            "id": 1577018
+        },
+        {
+            "code": "lupoLURK",
+            "emoticon_set": 16547,
+            "id": 1577021
+        },
+        {
+            "code": "lupoHEY",
+            "emoticon_set": 16547,
+            "id": 1577024
+        },
+        {
+            "code": "lupoGASM",
+            "emoticon_set": 16547,
+            "id": 1577026
+        },
+        {
+            "code": "lupoCRY",
+            "emoticon_set": 16547,
+            "id": 1577028
+        },
+        {
+            "code": "lupoBOOTY",
+            "emoticon_set": 16547,
+            "id": 1577030
+        },
+        {
+            "code": "lupoSIP",
+            "emoticon_set": 16547,
+            "id": 1577067
+        },
+        {
+            "code": "lupoTRIG",
+            "emoticon_set": 16547,
+            "id": 1581082
+        },
+        {
+            "code": "lupoWAT",
+            "emoticon_set": 16547,
+            "id": 1581083
+        },
+        {
+            "code": "lupoLLAMA",
+            "emoticon_set": 16547,
+            "id": 1587350
+        },
+        {
+            "code": "lupoBOB",
+            "emoticon_set": 16547,
+            "id": 1595892
+        },
+        {
+            "code": "lupoLIT",
+            "emoticon_set": 16547,
+            "id": 1595894
+        },
+        {
+            "code": "lupoTOXIC",
+            "emoticon_set": 16547,
+            "id": 1595895
+        },
+        {
+            "code": "lupoCRAB",
+            "emoticon_set": 16547,
+            "id": 1910702
+        },
+        {
+            "code": "lupoAFK",
+            "emoticon_set": 16547,
+            "id": 300534744
+        },
+        {
+            "code": "lupoCOFFEE",
+            "emoticon_set": 16547,
+            "id": 300534747
+        },
+        {
+            "code": "lupoDAB",
+            "emoticon_set": 16547,
+            "id": 300534748
+        },
+        {
+            "code": "lupoHMM",
+            "emoticon_set": 16547,
+            "id": 300534749
+        },
+        {
+            "code": "lupoRAGE",
+            "emoticon_set": 16547,
+            "id": 301122870
+        },
+        {
+            "code": "lupoLOVE",
+            "emoticon_set": 16547,
+            "id": 301380293
+        },
+        {
+            "code": "lupoWIFE",
+            "emoticon_set": 16547,
+            "id": 301380297
+        },
+        {
+            "code": "lupoHYPE",
+            "emoticon_set": 16547,
+            "id": 301380300
+        },
+        {
+            "code": "lupoPLS",
+            "emoticon_set": 16547,
+            "id": 301380303
+        },
+        {
+            "code": "lupoWEE",
+            "emoticon_set": 16547,
+            "id": 302960919
+        },
+        {
+            "code": "lupoWOO",
+            "emoticon_set": 16547,
+            "id": 302960927
+        },
+        {
+            "code": "lupoNANI",
+            "emoticon_set": 16547,
+            "id": 302960949
+        },
+        {
+            "code": "lupoPOG",
+            "emoticon_set": 16547,
+            "id": 302960957
+        },
+        {
+            "code": "lupoVSKY",
+            "emoticon_set": 16547,
+            "id": 302961028
+        },
+        {
+            "code": "lupoW",
+            "emoticon_set": 16547,
+            "id": 303368632
+        },
+        {
+            "code": "lupoTIE",
+            "emoticon_set": 16547,
+            "id": 306567456
+        },
+        {
+            "code": "lupoG",
+            "emoticon_set": 25736,
+            "id": 905565
+        },
+        {
+            "code": "lupoDING",
+            "emoticon_set": 25736,
+            "id": 302842658
+        },
+        {
+            "code": "lupoYOINK",
+            "emoticon_set": 25736,
+            "id": 302842710
+        },
+        {
+            "code": "lupoYARR",
+            "emoticon_set": 25736,
+            "id": 302842732
+        },
+        {
+            "code": "lupoALARM",
+            "emoticon_set": 25736,
+            "id": 302960913
+        },
+        {
+            "code": "lupoR",
+            "emoticon_set": 25737,
+            "id": 167233
+        },
+        {
+            "code": "lupoLOOFAH",
+            "emoticon_set": 25737,
+            "id": 302842511
+        },
+        {
+            "code": "lupoCUTE",
+            "emoticon_set": 25737,
+            "id": 302842519
+        },
+        {
+            "code": "lupoSHADE",
+            "emoticon_set": 25737,
+            "id": 302842818
+        },
+        {
+            "code": "lupoPAN",
+            "emoticon_set": 25737,
+            "id": 302842837
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b50168ac-34cc-42ca-aa37-77c08230eaa1/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b50168ac-34cc-42ca-aa37-77c08230eaa1/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b50168ac-34cc-42ca-aa37-77c08230eaa1/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7e3c229e-96a5-49c7-b759-25066a1518ec/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7e3c229e-96a5-49c7-b759-25066a1518ec/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7e3c229e-96a5-49c7-b759-25066a1518ec/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/88e7e322-bd57-45b6-94c6-79a7e0d6e1c6/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/88e7e322-bd57-45b6-94c6-79a7e0d6e1c6/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/88e7e322-bd57-45b6-94c6-79a7e0d6e1c6/3",
+            "title": "6-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/fb3b39e1-9dff-489a-b3c8-a3d3e191591a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/fb3b39e1-9dff-489a-b3c8-a3d3e191591a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/fb3b39e1-9dff-489a-b3c8-a3d3e191591a/3",
+            "title": "1-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c6159bc7-8c14-469c-8c77-0cd6b3a6780f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c6159bc7-8c14-469c-8c77-0cd6b3a6780f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c6159bc7-8c14-469c-8c77-0cd6b3a6780f/3",
+            "title": "2-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5b4e6b45-7d49-4a0d-b844-a37f24d92af8/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5b4e6b45-7d49-4a0d-b844-a37f24d92af8/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5b4e6b45-7d49-4a0d-b844-a37f24d92af8/3",
+            "title": "3-Year Subscriber"
+        },
+        "48": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/135ed2b8-51af-4fa2-8976-4ae7613affeb/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/135ed2b8-51af-4fa2-8976-4ae7613affeb/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/135ed2b8-51af-4fa2-8976-4ae7613affeb/3",
+            "title": "4-Year Subscriber"
+        }
+    },
+    "bits_badges": {
+        "1000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/06e5013d-b05c-4743-bf13-7a192ad6cbdb/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/06e5013d-b05c-4743-bf13-7a192ad6cbdb/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/06e5013d-b05c-4743-bf13-7a192ad6cbdb/3",
+            "title": "cheer 1000"
+        },
+        "5000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b599f1b1-7001-4d62-8efb-871bb672226a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b599f1b1-7001-4d62-8efb-871bb672226a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b599f1b1-7001-4d62-8efb-871bb672226a/3",
+            "title": "cheer 5000"
+        },
+        "10000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2c69960c-aedd-4ad4-8572-4bca1357a07e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2c69960c-aedd-4ad4-8572-4bca1357a07e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2c69960c-aedd-4ad4-8572-4bca1357a07e/3",
+            "title": "cheer 10000"
+        },
+        "25000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0413d59e-ee9b-4893-856c-33592fb67e81/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0413d59e-ee9b-4893-856c-33592fb67e81/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0413d59e-ee9b-4893-856c-33592fb67e81/3",
+            "title": "cheer 25000"
+        },
+        "50000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f70bc51e-6eeb-40ca-8e31-9157b510835a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f70bc51e-6eeb-40ca-8e31-9157b510835a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f70bc51e-6eeb-40ca-8e31-9157b510835a/3",
+            "title": "cheer 50000"
+        },
+        "75000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/36d2bad1-6764-4470-b2fc-b02cb5874571/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/36d2bad1-6764-4470-b2fc-b02cb5874571/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/36d2bad1-6764-4470-b2fc-b02cb5874571/3",
+            "title": "cheer 75000"
+        },
+        "100000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7513903c-d11e-4a80-8588-773b8b545164/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7513903c-d11e-4a80-8588-773b8b545164/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7513903c-d11e-4a80-8588-773b8b545164/3",
+            "title": "cheer 100000"
+        },
+        "200000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/23b37917-3454-49bd-a4ad-34812713ea92/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/23b37917-3454-49bd-a4ad-34812713ea92/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/23b37917-3454-49bd-a4ad-34812713ea92/3",
+            "title": "cheer 200000"
+        },
+        "300000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/637d6e3c-d8d3-4e05-9f7d-f4894e5b9911/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/637d6e3c-d8d3-4e05-9f7d-f4894e5b9911/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/637d6e3c-d8d3-4e05-9f7d-f4894e5b9911/3",
+            "title": "cheer 300000"
+        },
+        "400000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/504c236d-ac58-44af-b21e-05f9232258ef/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/504c236d-ac58-44af-b21e-05f9232258ef/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/504c236d-ac58-44af-b21e-05f9232258ef/3",
+            "title": "cheer 400000"
+        },
+        "500000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0d9e7d18-9800-4bab-b19e-572c4ba5709d/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0d9e7d18-9800-4bab-b19e-572c4ba5709d/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0d9e7d18-9800-4bab-b19e-572c4ba5709d/3",
+            "title": "cheer 500000"
+        },
+        "600000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9a48d135-43da-4fd2-af1c-c733f60b0afa/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9a48d135-43da-4fd2-af1c-c733f60b0afa/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9a48d135-43da-4fd2-af1c-c733f60b0afa/3",
+            "title": "cheer 600000"
+        },
+        "700000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/75b534a7-b30e-4c79-b1a6-7dd3db672de0/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/75b534a7-b30e-4c79-b1a6-7dd3db672de0/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/75b534a7-b30e-4c79-b1a6-7dd3db672de0/3",
+            "title": "cheer 700000"
+        },
+        "800000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8c7e8c58-467d-471d-8907-c5a8e3574c35/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8c7e8c58-467d-471d-8907-c5a8e3574c35/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8c7e8c58-467d-471d-8907-c5a8e3574c35/3",
+            "title": "cheer 800000"
+        },
+        "900000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/073f96cd-3328-4544-a00f-0621518f457d/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/073f96cd-3328-4544-a00f-0621518f457d/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/073f96cd-3328-4544-a00f-0621518f457d/3",
+            "title": "cheer 900000"
+        },
+        "1000000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/acb0dc26-66df-429a-8bc4-36dedbd6fd81/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/acb0dc26-66df-429a-8bc4-36dedbd6fd81/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/acb0dc26-66df-429a-8bc4-36dedbd6fd81/3",
+            "title": "cheer 1000000"
+        }
+    },
+    "cheermotes": {
+        "1": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1/light/animated/4.gif"
+        },
+        "100": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/100/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/100/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/100/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/100/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/100/light/animated/4.gif"
+        },
+        "1000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/1000/light/animated/4.gif"
+        },
+        "5000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/5000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/5000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/5000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/5000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/5000/light/animated/4.gif"
+        },
+        "10000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/10000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/10000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/10000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/10000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/29829912/12f8d679-6962-46e9-993f-131081a947c3/10000/light/animated/4.gif"
+        }
+    },
+    "base_set_id": "16547",
+    "display_name": "Drlupo",
+    "generated_at": "2021-05-19T11:02:52Z"
+}

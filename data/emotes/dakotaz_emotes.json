@@ -1,0 +1,582 @@
+{
+    "channel_name": "dakotaz",
+    "channel_id": "39298218",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "447",
+        "$9.99": "26604",
+        "$24.99": "26605"
+    },
+    "emotes": [
+        {
+            "code": "wolfJoker",
+            "emoticon_set": 447,
+            "id": 301095389
+        },
+        {
+            "code": "wolfTea",
+            "emoticon_set": 447,
+            "id": 301152762
+        },
+        {
+            "code": "wolfG2",
+            "emoticon_set": 447,
+            "id": 301177932
+        },
+        {
+            "code": "wolfG1",
+            "emoticon_set": 447,
+            "id": 301177934
+        },
+        {
+            "code": "wolfGun",
+            "emoticon_set": 447,
+            "id": 301194229
+        },
+        {
+            "code": "wolfSike",
+            "emoticon_set": 447,
+            "id": 301197625
+        },
+        {
+            "code": "wolfRip",
+            "emoticon_set": 447,
+            "id": 301202963
+        },
+        {
+            "code": "wolfClown",
+            "emoticon_set": 447,
+            "id": 301203253
+        },
+        {
+            "code": "wolfBoomer",
+            "emoticon_set": 447,
+            "id": 301207770
+        },
+        {
+            "code": "wolfBits",
+            "emoticon_set": 447,
+            "id": 301207775
+        },
+        {
+            "code": "wolfPopcorn",
+            "emoticon_set": 447,
+            "id": 301222501
+        },
+        {
+            "code": "wolfGravy",
+            "emoticon_set": 447,
+            "id": 301231388
+        },
+        {
+            "code": "wolfBaby",
+            "emoticon_set": 447,
+            "id": 301236980
+        },
+        {
+            "code": "wolfSip",
+            "emoticon_set": 447,
+            "id": 301236983
+        },
+        {
+            "code": "wolfGun2",
+            "emoticon_set": 447,
+            "id": 301236985
+        },
+        {
+            "code": "wolfHat",
+            "emoticon_set": 447,
+            "id": 301247753
+        },
+        {
+            "code": "wolfGravyL",
+            "emoticon_set": 447,
+            "id": 301255534
+        },
+        {
+            "code": "wolfGravyR",
+            "emoticon_set": 447,
+            "id": 301255535
+        },
+        {
+            "code": "wolfDork",
+            "emoticon_set": 447,
+            "id": 301293389
+        },
+        {
+            "code": "wolfHit",
+            "emoticon_set": 447,
+            "id": 301304673
+        },
+        {
+            "code": "wolfFlake",
+            "emoticon_set": 447,
+            "id": 301337634
+        },
+        {
+            "code": "wolfFlake2",
+            "emoticon_set": 447,
+            "id": 301337635
+        },
+        {
+            "code": "wolfTrain2",
+            "emoticon_set": 447,
+            "id": 301339609
+        },
+        {
+            "code": "wolfTrain",
+            "emoticon_set": 447,
+            "id": 301339613
+        },
+        {
+            "code": "wolfTrain3",
+            "emoticon_set": 447,
+            "id": 301349070
+        },
+        {
+            "code": "wolfGoat",
+            "emoticon_set": 447,
+            "id": 301362201
+        },
+        {
+            "code": "wolfCoffee",
+            "emoticon_set": 447,
+            "id": 301372767
+        },
+        {
+            "code": "wolfMonkaS",
+            "emoticon_set": 447,
+            "id": 301442408
+        },
+        {
+            "code": "wolfClip",
+            "emoticon_set": 447,
+            "id": 301446943
+        },
+        {
+            "code": "wolfCEO",
+            "emoticon_set": 447,
+            "id": 301526346
+        },
+        {
+            "code": "wolfSmoke",
+            "emoticon_set": 447,
+            "id": 301532157
+        },
+        {
+            "code": "wolfGG",
+            "emoticon_set": 447,
+            "id": 301573176
+        },
+        {
+            "code": "wolfSnipe2",
+            "emoticon_set": 447,
+            "id": 301612077
+        },
+        {
+            "code": "wolfSnipe1",
+            "emoticon_set": 447,
+            "id": 301612132
+        },
+        {
+            "code": "wolfBlind",
+            "emoticon_set": 447,
+            "id": 301635421
+        },
+        {
+            "code": "wolfTrain4",
+            "emoticon_set": 447,
+            "id": 301635422
+        },
+        {
+            "code": "wolfDA",
+            "emoticon_set": 447,
+            "id": 301649338
+        },
+        {
+            "code": "wolfPrime",
+            "emoticon_set": 447,
+            "id": 301693351
+        },
+        {
+            "code": "wolf1HP",
+            "emoticon_set": 447,
+            "id": 301694973
+        },
+        {
+            "code": "wolfVibe",
+            "emoticon_set": 447,
+            "id": 302202972
+        },
+        {
+            "code": "wolfNana",
+            "emoticon_set": 447,
+            "id": 302202984
+        },
+        {
+            "code": "wolfDead",
+            "emoticon_set": 447,
+            "id": 302202988
+        },
+        {
+            "code": "wolfDavid",
+            "emoticon_set": 447,
+            "id": 302369648
+        },
+        {
+            "code": "wolfDono",
+            "emoticon_set": 447,
+            "id": 302369655
+        },
+        {
+            "code": "wolfTTV",
+            "emoticon_set": 447,
+            "id": 302369657
+        },
+        {
+            "code": "wolfRun",
+            "emoticon_set": 447,
+            "id": 303349655
+        },
+        {
+            "code": "wolfCrown",
+            "emoticon_set": 447,
+            "id": 303387180
+        },
+        {
+            "code": "wolfStare",
+            "emoticon_set": 447,
+            "id": 303417916
+        },
+        {
+            "code": "wolfShy",
+            "emoticon_set": 447,
+            "id": 303852363
+        },
+        {
+            "code": "wolfEject",
+            "emoticon_set": 447,
+            "id": 304921841
+        },
+        {
+            "code": "wolfVent",
+            "emoticon_set": 447,
+            "id": 304999719
+        },
+        {
+            "code": "wolfFirst",
+            "emoticon_set": 447,
+            "id": 304999774
+        },
+        {
+            "code": "wolfSend",
+            "emoticon_set": 447,
+            "id": 304999796
+        },
+        {
+            "code": "wolfIMP",
+            "emoticon_set": 447,
+            "id": 305131145
+        },
+        {
+            "code": "wolfGold",
+            "emoticon_set": 26604,
+            "id": 200122
+        },
+        {
+            "code": "wolfPride",
+            "emoticon_set": 26605,
+            "id": 200123
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/4ca40f63-00fc-4da9-95e8-968be96d4426/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/4ca40f63-00fc-4da9-95e8-968be96d4426/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4ca40f63-00fc-4da9-95e8-968be96d4426/3",
+            "title": "Subscriber"
+        },
+        "2": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/47313cee-88f3-46c2-8f5c-3df9aee8529d/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/47313cee-88f3-46c2-8f5c-3df9aee8529d/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/47313cee-88f3-46c2-8f5c-3df9aee8529d/3",
+            "title": "2-Month Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/bc272bbc-82fd-4cae-9f45-12ef61dea851/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/bc272bbc-82fd-4cae-9f45-12ef61dea851/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/bc272bbc-82fd-4cae-9f45-12ef61dea851/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d4f68719-e995-4c01-9c50-7390c38042c8/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d4f68719-e995-4c01-9c50-7390c38042c8/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d4f68719-e995-4c01-9c50-7390c38042c8/3",
+            "title": "6-Month Subscriber"
+        },
+        "9": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8e8f4fd8-0c46-46de-9823-8ed0e59b6a79/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8e8f4fd8-0c46-46de-9823-8ed0e59b6a79/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8e8f4fd8-0c46-46de-9823-8ed0e59b6a79/3",
+            "title": "9-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/129b3871-0575-4347-8d30-8427c2dd4915/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/129b3871-0575-4347-8d30-8427c2dd4915/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/129b3871-0575-4347-8d30-8427c2dd4915/3",
+            "title": "1-Year Subscriber"
+        },
+        "18": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c8330f25-d1ed-4825-ae6e-16887ff5e536/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c8330f25-d1ed-4825-ae6e-16887ff5e536/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c8330f25-d1ed-4825-ae6e-16887ff5e536/3",
+            "title": "1.5-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d9d8e498-6d13-47a3-a189-1d89859692df/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d9d8e498-6d13-47a3-a189-1d89859692df/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d9d8e498-6d13-47a3-a189-1d89859692df/3",
+            "title": "2-Year Subscriber"
+        },
+        "30": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a5447d6b-2f8f-4394-b491-30acd7048052/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a5447d6b-2f8f-4394-b491-30acd7048052/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a5447d6b-2f8f-4394-b491-30acd7048052/3",
+            "title": "2.5-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a8bc7fc3-5e1e-45d5-9d90-5f0b20bc7798/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a8bc7fc3-5e1e-45d5-9d90-5f0b20bc7798/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a8bc7fc3-5e1e-45d5-9d90-5f0b20bc7798/3",
+            "title": "3-Year Subscriber"
+        },
+        "42": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/437cd786-f17f-4789-b4f7-e3aad25698d9/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/437cd786-f17f-4789-b4f7-e3aad25698d9/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/437cd786-f17f-4789-b4f7-e3aad25698d9/3",
+            "title": "3.5-Year Subscriber"
+        },
+        "48": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/944cdd45-924e-4666-9e24-d9543aa1693d/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/944cdd45-924e-4666-9e24-d9543aa1693d/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/944cdd45-924e-4666-9e24-d9543aa1693d/3",
+            "title": "4-Year Subscriber"
+        },
+        "54": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b922ad11-5588-4104-89cb-c1a0b77c9c90/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b922ad11-5588-4104-89cb-c1a0b77c9c90/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b922ad11-5588-4104-89cb-c1a0b77c9c90/3",
+            "title": "4.5-Year Subscriber"
+        },
+        "60": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/743c9178-1053-4415-adc1-c6e51e09ccaf/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/743c9178-1053-4415-adc1-c6e51e09ccaf/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/743c9178-1053-4415-adc1-c6e51e09ccaf/3",
+            "title": "5-Year Subscriber"
+        },
+        "66": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/85761165-67da-4653-96d3-79c08a8db7db/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/85761165-67da-4653-96d3-79c08a8db7db/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/85761165-67da-4653-96d3-79c08a8db7db/3",
+            "title": "5.5-Year Subscriber"
+        },
+        "72": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b263c8e1-95e5-46a0-bb7f-5e596c0243f0/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b263c8e1-95e5-46a0-bb7f-5e596c0243f0/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b263c8e1-95e5-46a0-bb7f-5e596c0243f0/3",
+            "title": "6-Year Subscriber"
+        },
+        "78": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/1bbfda3d-ce4a-486a-913f-3dc755775baf/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/1bbfda3d-ce4a-486a-913f-3dc755775baf/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/1bbfda3d-ce4a-486a-913f-3dc755775baf/3",
+            "title": "6.5-Year Subscriber"
+        },
+        "84": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2af12588-1cef-48aa-953e-5843d0807926/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2af12588-1cef-48aa-953e-5843d0807926/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2af12588-1cef-48aa-953e-5843d0807926/3",
+            "title": "7-Year Subscriber"
+        },
+        "90": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5aea769d-a1a5-4034-9cad-72e846706f89/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5aea769d-a1a5-4034-9cad-72e846706f89/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5aea769d-a1a5-4034-9cad-72e846706f89/3",
+            "title": "7.5-Year Subscriber"
+        },
+        "96": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/da2ab542-01bf-4cc7-b56e-4fbd992a91aa/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/da2ab542-01bf-4cc7-b56e-4fbd992a91aa/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/da2ab542-01bf-4cc7-b56e-4fbd992a91aa/3",
+            "title": "8-Year Subscriber"
+        }
+    },
+    "bits_badges": {
+        "1": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f0ee7238-d841-49d1-9077-d71ce03f2665/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f0ee7238-d841-49d1-9077-d71ce03f2665/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f0ee7238-d841-49d1-9077-d71ce03f2665/3",
+            "title": "cheer 1"
+        },
+        "100": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/aac518c6-329b-44b9-b718-27a9f5659131/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/aac518c6-329b-44b9-b718-27a9f5659131/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/aac518c6-329b-44b9-b718-27a9f5659131/3",
+            "title": "cheer 100"
+        },
+        "1000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7f4b0151-317f-4115-9acd-81a8b60304ba/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7f4b0151-317f-4115-9acd-81a8b60304ba/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7f4b0151-317f-4115-9acd-81a8b60304ba/3",
+            "title": "cheer 1000"
+        },
+        "5000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b0c6e81d-8780-42f0-9951-73f5c4349340/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b0c6e81d-8780-42f0-9951-73f5c4349340/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b0c6e81d-8780-42f0-9951-73f5c4349340/3",
+            "title": "cheer 5000"
+        },
+        "10000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ea5af0ae-c404-42a0-aa91-455a3d312da3/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ea5af0ae-c404-42a0-aa91-455a3d312da3/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ea5af0ae-c404-42a0-aa91-455a3d312da3/3",
+            "title": "cheer 10000"
+        },
+        "25000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/fdbc92cd-4f15-4d65-94fa-2361c52b29be/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/fdbc92cd-4f15-4d65-94fa-2361c52b29be/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/fdbc92cd-4f15-4d65-94fa-2361c52b29be/3",
+            "title": "cheer 25000"
+        },
+        "50000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3aac5b1e-a020-4f69-909d-869ac4bba2a4/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3aac5b1e-a020-4f69-909d-869ac4bba2a4/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3aac5b1e-a020-4f69-909d-869ac4bba2a4/3",
+            "title": "cheer 50000"
+        },
+        "75000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2d26aefc-9b5d-417c-9af5-26841be9be80/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2d26aefc-9b5d-417c-9af5-26841be9be80/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2d26aefc-9b5d-417c-9af5-26841be9be80/3",
+            "title": "cheer 75000"
+        },
+        "100000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/46ec9c9e-3323-4ee9-86e9-60cfe3a64815/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/46ec9c9e-3323-4ee9-86e9-60cfe3a64815/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/46ec9c9e-3323-4ee9-86e9-60cfe3a64815/3",
+            "title": "cheer 100000"
+        },
+        "200000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3f6a8a2d-8ffb-426d-a1a4-bb810abdd283/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3f6a8a2d-8ffb-426d-a1a4-bb810abdd283/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3f6a8a2d-8ffb-426d-a1a4-bb810abdd283/3",
+            "title": "cheer 200000"
+        },
+        "300000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/19fafd0e-ea29-4fe6-a602-9dbd9dab56ad/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/19fafd0e-ea29-4fe6-a602-9dbd9dab56ad/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/19fafd0e-ea29-4fe6-a602-9dbd9dab56ad/3",
+            "title": "cheer 300000"
+        },
+        "400000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/97fe4cbc-b7f9-43b4-b40d-628c08eadfb0/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/97fe4cbc-b7f9-43b4-b40d-628c08eadfb0/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/97fe4cbc-b7f9-43b4-b40d-628c08eadfb0/3",
+            "title": "cheer 400000"
+        },
+        "500000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d902d980-c610-432a-a267-bd168ab5c3ca/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d902d980-c610-432a-a267-bd168ab5c3ca/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d902d980-c610-432a-a267-bd168ab5c3ca/3",
+            "title": "cheer 500000"
+        },
+        "600000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6f2ae17a-a7a3-4a6a-ad8a-a1dcbfad54ea/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6f2ae17a-a7a3-4a6a-ad8a-a1dcbfad54ea/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6f2ae17a-a7a3-4a6a-ad8a-a1dcbfad54ea/3",
+            "title": "cheer 600000"
+        },
+        "700000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/fcd67a94-beb2-4d81-90a7-7a3aa1ea9c21/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/fcd67a94-beb2-4d81-90a7-7a3aa1ea9c21/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/fcd67a94-beb2-4d81-90a7-7a3aa1ea9c21/3",
+            "title": "cheer 700000"
+        },
+        "800000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e4a671ba-d843-4722-a7f0-52717146e08f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e4a671ba-d843-4722-a7f0-52717146e08f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e4a671ba-d843-4722-a7f0-52717146e08f/3",
+            "title": "cheer 800000"
+        },
+        "900000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e0146830-ed58-4211-85dc-3543a5ce4ae8/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e0146830-ed58-4211-85dc-3543a5ce4ae8/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e0146830-ed58-4211-85dc-3543a5ce4ae8/3",
+            "title": "cheer 900000"
+        },
+        "1000000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/780521fa-c4d3-4b0d-bad7-4557d3d91baa/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/780521fa-c4d3-4b0d-bad7-4557d3d91baa/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/780521fa-c4d3-4b0d-bad7-4557d3d91baa/3",
+            "title": "cheer 1000000"
+        },
+        "1250000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/98560e89-a9e6-439a-882a-5c33c13f9761/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/98560e89-a9e6-439a-882a-5c33c13f9761/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/98560e89-a9e6-439a-882a-5c33c13f9761/3",
+            "title": "cheer 1250000"
+        },
+        "1500000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b2e7c889-8e02-4433-b9c3-4c184ff978cb/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b2e7c889-8e02-4433-b9c3-4c184ff978cb/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b2e7c889-8e02-4433-b9c3-4c184ff978cb/3",
+            "title": "cheer 1500000"
+        },
+        "2000000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/78742c51-832d-4dea-a195-f131cdb51a4a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/78742c51-832d-4dea-a195-f131cdb51a4a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/78742c51-832d-4dea-a195-f131cdb51a4a/3",
+            "title": "cheer 2000000"
+        },
+        "2500000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/26046ac1-3b8a-479b-a157-91296ca85592/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/26046ac1-3b8a-479b-a157-91296ca85592/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/26046ac1-3b8a-479b-a157-91296ca85592/3",
+            "title": "cheer 2500000"
+        },
+        "3000000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/03c0b720-2871-4348-a979-0905fe2471b4/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/03c0b720-2871-4348-a979-0905fe2471b4/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/03c0b720-2871-4348-a979-0905fe2471b4/3",
+            "title": "cheer 3000000"
+        },
+        "3500000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a686d1bd-3a6d-44b4-bc96-85477fd23473/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a686d1bd-3a6d-44b4-bc96-85477fd23473/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a686d1bd-3a6d-44b4-bc96-85477fd23473/3",
+            "title": "cheer 3500000"
+        },
+        "4000000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/23225b07-6329-4a15-a714-cc90c08dd456/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/23225b07-6329-4a15-a714-cc90c08dd456/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/23225b07-6329-4a15-a714-cc90c08dd456/3",
+            "title": "cheer 4000000"
+        },
+        "4500000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c8f73eef-fd54-4ea0-a27e-a7d1d68a5a74/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c8f73eef-fd54-4ea0-a27e-a7d1d68a5a74/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c8f73eef-fd54-4ea0-a27e-a7d1d68a5a74/3",
+            "title": "cheer 4500000"
+        },
+        "5000000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c0c919c8-4bb0-4967-95c0-10de578ea362/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c0c919c8-4bb0-4967-95c0-10de578ea362/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c0c919c8-4bb0-4967-95c0-10de578ea362/3",
+            "title": "cheer 5000000"
+        }
+    },
+    "cheermotes": null,
+    "base_set_id": "447",
+    "display_name": "Dakotaz",
+    "generated_at": "2021-05-19T11:02:50Z"
+}

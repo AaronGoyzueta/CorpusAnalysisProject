@@ -1,0 +1,363 @@
+{
+    "channel_name": "shroud",
+    "channel_id": "37402112",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "2112",
+        "$9.99": "32940",
+        "$24.99": "32941"
+    },
+    "emotes": [
+        {
+            "code": "shroudWhiff",
+            "emoticon_set": 2112,
+            "id": 69044
+        },
+        {
+            "code": "shroudInsane",
+            "emoticon_set": 2112,
+            "id": 71654
+        },
+        {
+            "code": "shroudEZ",
+            "emoticon_set": 2112,
+            "id": 194017
+        },
+        {
+            "code": "shroud4Head",
+            "emoticon_set": 2112,
+            "id": 205480
+        },
+        {
+            "code": "shroudHands",
+            "emoticon_set": 2112,
+            "id": 1723867
+        },
+        {
+            "code": "shroud1",
+            "emoticon_set": 2112,
+            "id": 1723951
+        },
+        {
+            "code": "shroud2",
+            "emoticon_set": 2112,
+            "id": 1723954
+        },
+        {
+            "code": "shroud3",
+            "emoticon_set": 2112,
+            "id": 1723957
+        },
+        {
+            "code": "shroud4",
+            "emoticon_set": 2112,
+            "id": 1723958
+        },
+        {
+            "code": "shroudAFK",
+            "emoticon_set": 2112,
+            "id": 300059930
+        },
+        {
+            "code": "shroudLoud",
+            "emoticon_set": 2112,
+            "id": 300714447
+        },
+        {
+            "code": "shroudPray",
+            "emoticon_set": 2112,
+            "id": 300714450
+        },
+        {
+            "code": "shroudCop",
+            "emoticon_set": 2112,
+            "id": 300714459
+        },
+        {
+            "code": "shroudLove",
+            "emoticon_set": 2112,
+            "id": 300714463
+        },
+        {
+            "code": "shroudSip",
+            "emoticon_set": 2112,
+            "id": 300714466
+        },
+        {
+            "code": "shroudHi",
+            "emoticon_set": 2112,
+            "id": 300716216
+        },
+        {
+            "code": "shroudBot",
+            "emoticon_set": 2112,
+            "id": 300938086
+        },
+        {
+            "code": "shroudFC",
+            "emoticon_set": 2112,
+            "id": 300938097
+        },
+        {
+            "code": "shroudGift",
+            "emoticon_set": 2112,
+            "id": 300938099
+        },
+        {
+            "code": "shroudRIP",
+            "emoticon_set": 2112,
+            "id": 300938100
+        },
+        {
+            "code": "shroudUp",
+            "emoticon_set": 2112,
+            "id": 300938102
+        },
+        {
+            "code": "shroudFP",
+            "emoticon_set": 2112,
+            "id": 300938104
+        },
+        {
+            "code": "shroudLUL",
+            "emoticon_set": 2112,
+            "id": 300938107
+        },
+        {
+            "code": "shroudJam",
+            "emoticon_set": 2112,
+            "id": 300938112
+        },
+        {
+            "code": "shroudNap",
+            "emoticon_set": 2112,
+            "id": 300938116
+        },
+        {
+            "code": "shroudRNG",
+            "emoticon_set": 2112,
+            "id": 300938117
+        },
+        {
+            "code": "shroudSell",
+            "emoticon_set": 2112,
+            "id": 300938121
+        },
+        {
+            "code": "shroudC",
+            "emoticon_set": 2112,
+            "id": 300938142
+        },
+        {
+            "code": "shroudHug",
+            "emoticon_set": 2112,
+            "id": 300938153
+        },
+        {
+            "code": "shroudBlind",
+            "emoticon_set": 2112,
+            "id": 300938158
+        },
+        {
+            "code": "shroudRage",
+            "emoticon_set": 2112,
+            "id": 303251933
+        },
+        {
+            "code": "shroudGrump",
+            "emoticon_set": 2112,
+            "id": 303252000
+        },
+        {
+            "code": "shroud200IQ",
+            "emoticon_set": 2112,
+            "id": 303252048
+        },
+        {
+            "code": "shroudButt",
+            "emoticon_set": 2112,
+            "id": 303252074
+        },
+        {
+            "code": "shroudCarry",
+            "emoticon_set": 2112,
+            "id": 303252075
+        },
+        {
+            "code": "shroudComfy",
+            "emoticon_set": 2112,
+            "id": 303252079
+        },
+        {
+            "code": "shroudGasm",
+            "emoticon_set": 2112,
+            "id": 303252090
+        },
+        {
+            "code": "shroudGG",
+            "emoticon_set": 2112,
+            "id": 303252091
+        },
+        {
+            "code": "shroudHmm",
+            "emoticon_set": 2112,
+            "id": 303252095
+        },
+        {
+            "code": "shroudKEK",
+            "emoticon_set": 2112,
+            "id": 303252096
+        },
+        {
+            "code": "shroudKill",
+            "emoticon_set": 2112,
+            "id": 303252097
+        },
+        {
+            "code": "shroudKing",
+            "emoticon_set": 2112,
+            "id": 303252100
+        },
+        {
+            "code": "shroudLurk",
+            "emoticon_set": 2112,
+            "id": 303252103
+        },
+        {
+            "code": "shroudM",
+            "emoticon_set": 2112,
+            "id": 303252105
+        },
+        {
+            "code": "shroudPhone",
+            "emoticon_set": 2112,
+            "id": 303252110
+        },
+        {
+            "code": "shroudPog",
+            "emoticon_set": 2112,
+            "id": 303252119
+        },
+        {
+            "code": "shroudNom",
+            "emoticon_set": 2112,
+            "id": 303252128
+        },
+        {
+            "code": "shroudShrug",
+            "emoticon_set": 2112,
+            "id": 303252135
+        },
+        {
+            "code": "shroudThump",
+            "emoticon_set": 2112,
+            "id": 303252146
+        },
+        {
+            "code": "shroudChill",
+            "emoticon_set": 2112,
+            "id": 303256306
+        },
+        {
+            "code": "shroudH",
+            "emoticon_set": 2112,
+            "id": 303257197
+        },
+        {
+            "code": "shroudYEP",
+            "emoticon_set": 2112,
+            "id": 303257423
+        },
+        {
+            "code": "shroudWat",
+            "emoticon_set": 2112,
+            "id": 303257506
+        },
+        {
+            "code": "shroudPPHands",
+            "emoticon_set": 2112,
+            "id": 303277238
+        },
+        {
+            "code": "shroudR",
+            "emoticon_set": 2112,
+            "id": 303277630
+        },
+        {
+            "code": "shroudYikes",
+            "emoticon_set": 2112,
+            "id": 303277649
+        },
+        {
+            "code": "shroudGp",
+            "emoticon_set": 32940,
+            "id": 452344
+        },
+        {
+            "code": "shroudGez",
+            "emoticon_set": 32941,
+            "id": 452346
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c2ecac29-f815-4912-963e-e268ec02d7f4/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c2ecac29-f815-4912-963e-e268ec02d7f4/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c2ecac29-f815-4912-963e-e268ec02d7f4/3",
+            "title": "Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/45fd0d60-88f3-460f-831f-96a4db994890/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/45fd0d60-88f3-460f-831f-96a4db994890/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/45fd0d60-88f3-460f-831f-96a4db994890/3",
+            "title": "6-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0fd98621-a1af-4639-b4c8-54c771e1aad5/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0fd98621-a1af-4639-b4c8-54c771e1aad5/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0fd98621-a1af-4639-b4c8-54c771e1aad5/3",
+            "title": "1-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8ab8e478-8f4c-4481-a039-d6d9fba41188/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8ab8e478-8f4c-4481-a039-d6d9fba41188/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8ab8e478-8f4c-4481-a039-d6d9fba41188/3",
+            "title": "2-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c7838b32-495a-42c0-9537-3068b72b3436/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c7838b32-495a-42c0-9537-3068b72b3436/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c7838b32-495a-42c0-9537-3068b72b3436/3",
+            "title": "3-Year Subscriber"
+        },
+        "48": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3a68a65a-818c-422e-8797-dfcc88795954/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3a68a65a-818c-422e-8797-dfcc88795954/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3a68a65a-818c-422e-8797-dfcc88795954/3",
+            "title": "4-Year Subscriber"
+        },
+        "60": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a6eec6fb-8977-4a41-9643-40803180292f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a6eec6fb-8977-4a41-9643-40803180292f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a6eec6fb-8977-4a41-9643-40803180292f/3",
+            "title": "5-Year Subscriber"
+        },
+        "72": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8861b9f7-f51f-459e-b3c9-0ba6378ec38a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8861b9f7-f51f-459e-b3c9-0ba6378ec38a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8861b9f7-f51f-459e-b3c9-0ba6378ec38a/3",
+            "title": "6-Year Subscriber"
+        },
+        "84": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0d78055f-2cd2-4458-99f0-ef72bee57b95/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0d78055f-2cd2-4458-99f0-ef72bee57b95/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0d78055f-2cd2-4458-99f0-ef72bee57b95/3",
+            "title": "7-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": null,
+    "base_set_id": "2112",
+    "display_name": "Shroud",
+    "generated_at": "2021-05-19T11:02:50Z"
+}

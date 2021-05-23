@@ -1,0 +1,395 @@
+{
+    "channel_name": "thegrefg",
+    "channel_id": "48878319",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "14190",
+        "$9.99": "43814",
+        "$24.99": "43815"
+    },
+    "emotes": [
+        {
+            "code": "grefgFail",
+            "emoticon_set": 14190,
+            "id": 300937320
+        },
+        {
+            "code": "grefgEnfado",
+            "emoticon_set": 14190,
+            "id": 300937322
+        },
+        {
+            "code": "grefgLol",
+            "emoticon_set": 14190,
+            "id": 300937324
+        },
+        {
+            "code": "grefgOmg",
+            "emoticon_set": 14190,
+            "id": 300937328
+        },
+        {
+            "code": "grefgGg",
+            "emoticon_set": 14190,
+            "id": 300937333
+        },
+        {
+            "code": "grefg200iq",
+            "emoticon_set": 14190,
+            "id": 300937336
+        },
+        {
+            "code": "grefg1hp",
+            "emoticon_set": 14190,
+            "id": 300937339
+        },
+        {
+            "code": "grefgHolayt",
+            "emoticon_set": 14190,
+            "id": 300937340
+        },
+        {
+            "code": "grefgBeso",
+            "emoticon_set": 14190,
+            "id": 300957343
+        },
+        {
+            "code": "grefgBesoo",
+            "emoticon_set": 14190,
+            "id": 300957346
+        },
+        {
+            "code": "grefgBesooo",
+            "emoticon_set": 14190,
+            "id": 300957348
+        },
+        {
+            "code": "grefgBesoooo",
+            "emoticon_set": 14190,
+            "id": 300957351
+        },
+        {
+            "code": "grefgL2r2",
+            "emoticon_set": 14190,
+            "id": 300957352
+        },
+        {
+            "code": "grefgOtakuu",
+            "emoticon_set": 14190,
+            "id": 300961067
+        },
+        {
+            "code": "grefgViejoven",
+            "emoticon_set": 14190,
+            "id": 300968753
+        },
+        {
+            "code": "grefgFollow",
+            "emoticon_set": 14190,
+            "id": 300978885
+        },
+        {
+            "code": "grefgSub",
+            "emoticon_set": 14190,
+            "id": 300981791
+        },
+        {
+            "code": "grefgJeje",
+            "emoticon_set": 14190,
+            "id": 300981793
+        },
+        {
+            "code": "grefgF",
+            "emoticon_set": 14190,
+            "id": 301079913
+        },
+        {
+            "code": "grefgCALVO",
+            "emoticon_set": 14190,
+            "id": 301349446
+        },
+        {
+            "code": "grefgRezando",
+            "emoticon_set": 14190,
+            "id": 301518644
+        },
+        {
+            "code": "grefgAgresivo",
+            "emoticon_set": 14190,
+            "id": 301518670
+        },
+        {
+            "code": "grefg2IQ",
+            "emoticon_set": 14190,
+            "id": 301518675
+        },
+        {
+            "code": "grefgGulagKing",
+            "emoticon_set": 14190,
+            "id": 301687440
+        },
+        {
+            "code": "grefgAmpeterCalvaland",
+            "emoticon_set": 14190,
+            "id": 302172205
+        },
+        {
+            "code": "grefgVicensCalvaland",
+            "emoticon_set": 14190,
+            "id": 302172209
+        },
+        {
+            "code": "grefgAgusCalvaland",
+            "emoticon_set": 14190,
+            "id": 302172212
+        },
+        {
+            "code": "grefgCalvaland",
+            "emoticon_set": 14190,
+            "id": 302172218
+        },
+        {
+            "code": "grefgDiamante",
+            "emoticon_set": 14190,
+            "id": 302217386
+        },
+        {
+            "code": "grefgStaxxCalvaland",
+            "emoticon_set": 14190,
+            "id": 302397344
+        },
+        {
+            "code": "grefgTarifaCalvaland",
+            "emoticon_set": 14190,
+            "id": 302680299
+        },
+        {
+            "code": "grefgRobleisCalvaland",
+            "emoticon_set": 14190,
+            "id": 302840405
+        },
+        {
+            "code": "grefgOohh",
+            "emoticon_set": 14190,
+            "id": 302983451
+        },
+        {
+            "code": "grefgCucaracha",
+            "emoticon_set": 14190,
+            "id": 303017473
+        },
+        {
+            "code": "grefgCiego",
+            "emoticon_set": 14190,
+            "id": 303432202
+        },
+        {
+            "code": "grefgCargando",
+            "emoticon_set": 14190,
+            "id": 303591742
+        },
+        {
+            "code": "grefgJaja",
+            "emoticon_set": 14190,
+            "id": 303742797
+        },
+        {
+            "code": "grefgAfk",
+            "emoticon_set": 14190,
+            "id": 303742802
+        },
+        {
+            "code": "grefgTripulante",
+            "emoticon_set": 14190,
+            "id": 303858559
+        },
+        {
+            "code": "grefgImpostor",
+            "emoticon_set": 14190,
+            "id": 303858564
+        },
+        {
+            "code": "grefgHeretics",
+            "emoticon_set": 14190,
+            "id": 304180886
+        },
+        {
+            "code": "grefgSi",
+            "emoticon_set": 14190,
+            "id": 304226777
+        },
+        {
+            "code": "grefgNo",
+            "emoticon_set": 14190,
+            "id": 304241209
+        },
+        {
+            "code": "grefgBAN",
+            "emoticon_set": 14190,
+            "id": 304430521
+        },
+        {
+            "code": "grefgAplauso",
+            "emoticon_set": 14190,
+            "id": 304439641
+        },
+        {
+            "code": "grefgTemazo",
+            "emoticon_set": 14190,
+            "id": 304526747
+        },
+        {
+            "code": "grefgHolainstagram",
+            "emoticon_set": 14190,
+            "id": 304658343
+        },
+        {
+            "code": "grefgGemita",
+            "emoticon_set": 14190,
+            "id": 304681279
+        },
+        {
+            "code": "grefgKAME",
+            "emoticon_set": 14190,
+            "id": 305019754
+        },
+        {
+            "code": "grefgMessirve",
+            "emoticon_set": 14190,
+            "id": 305094750
+        },
+        {
+            "code": "grefgADormir",
+            "emoticon_set": 14190,
+            "id": 305113153
+        },
+        {
+            "code": "grefgIngles",
+            "emoticon_set": 14190,
+            "id": 305131729
+        },
+        {
+            "code": "grefgLoco",
+            "emoticon_set": 14190,
+            "id": 305217459
+        },
+        {
+            "code": "grefgSkin",
+            "emoticon_set": 14190,
+            "id": 305345597
+        },
+        {
+            "code": "grefgPogchamp",
+            "emoticon_set": 14190,
+            "id": 305417212
+        },
+        {
+            "code": "grefgCartel",
+            "emoticon_set": 14190,
+            "id": 306081390
+        },
+        {
+            "code": "grefgDibujo",
+            "emoticon_set": 14190,
+            "id": 306081402
+        },
+        {
+            "code": "grefgStonks",
+            "emoticon_set": 14190,
+            "id": 306887854
+        },
+        {
+            "code": "grefgGregory",
+            "emoticon_set": 14190,
+            "id": 307182999
+        },
+        {
+            "code": "grefgRedbull",
+            "emoticon_set": 14190,
+            "id": 307254076
+        },
+        {
+            "code": "grefgWtf",
+            "emoticon_set": 43814,
+            "id": 300978875
+        },
+        {
+            "code": "grefgCalvoMaster",
+            "emoticon_set": 43815,
+            "id": 301518643
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7b0bd106-ad50-4472-9c78-74c167d7494f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7b0bd106-ad50-4472-9c78-74c167d7494f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7b0bd106-ad50-4472-9c78-74c167d7494f/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a0c85e9b-6803-4f6b-9d98-6c8ebfc78611/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a0c85e9b-6803-4f6b-9d98-6c8ebfc78611/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a0c85e9b-6803-4f6b-9d98-6c8ebfc78611/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9e03d54b-7714-4660-beff-c761a78d0ca4/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9e03d54b-7714-4660-beff-c761a78d0ca4/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9e03d54b-7714-4660-beff-c761a78d0ca4/3",
+            "title": "6-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9b56a398-4cda-4c12-b1ea-c22931bfaa10/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9b56a398-4cda-4c12-b1ea-c22931bfaa10/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9b56a398-4cda-4c12-b1ea-c22931bfaa10/3",
+            "title": "1-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6b779fda-4678-4e07-8e52-07457b4c7220/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6b779fda-4678-4e07-8e52-07457b4c7220/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6b779fda-4678-4e07-8e52-07457b4c7220/3",
+            "title": "2-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": {
+        "1": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1/light/animated/4.gif"
+        },
+        "100": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/100/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/100/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/100/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/100/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/100/light/animated/4.gif"
+        },
+        "1000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/1000/light/animated/4.gif"
+        },
+        "5000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/5000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/5000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/5000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/5000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/5000/light/animated/4.gif"
+        },
+        "10000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/10000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/10000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/10000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/10000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/48878319/26ac2c90-982e-4db9-b529-88b33d97187f/10000/light/animated/4.gif"
+        }
+    },
+    "base_set_id": "14190",
+    "display_name": "Thegrefg",
+    "generated_at": "2021-05-19T11:02:52Z"
+}

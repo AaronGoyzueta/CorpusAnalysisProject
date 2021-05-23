@@ -1,0 +1,389 @@
+{
+    "channel_name": "myth",
+    "channel_id": "110690086",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "141478",
+        "$9.99": "141479",
+        "$24.99": "141481"
+    },
+    "emotes": [
+        {
+            "code": "mythMbush",
+            "emoticon_set": 141478,
+            "id": 623475
+        },
+        {
+            "code": "mythC",
+            "emoticon_set": 141478,
+            "id": 854452
+        },
+        {
+            "code": "mythHa",
+            "emoticon_set": 141478,
+            "id": 854480
+        },
+        {
+            "code": "mythBl",
+            "emoticon_set": 141478,
+            "id": 854512
+        },
+        {
+            "code": "mythWows",
+            "emoticon_set": 141478,
+            "id": 858315
+        },
+        {
+            "code": "mythGasp",
+            "emoticon_set": 141478,
+            "id": 858317
+        },
+        {
+            "code": "mythBaby",
+            "emoticon_set": 141478,
+            "id": 858318
+        },
+        {
+            "code": "mythV",
+            "emoticon_set": 141478,
+            "id": 1052377
+        },
+        {
+            "code": "mythMeh",
+            "emoticon_set": 141478,
+            "id": 1052423
+        },
+        {
+            "code": "mythRee",
+            "emoticon_set": 141478,
+            "id": 1052426
+        },
+        {
+            "code": "mythGrin",
+            "emoticon_set": 141478,
+            "id": 1052435
+        },
+        {
+            "code": "mythR",
+            "emoticon_set": 141478,
+            "id": 1052459
+        },
+        {
+            "code": "mythCu",
+            "emoticon_set": 141478,
+            "id": 1052497
+        },
+        {
+            "code": "mythO",
+            "emoticon_set": 141478,
+            "id": 1052503
+        },
+        {
+            "code": "mythSus",
+            "emoticon_set": 141478,
+            "id": 1127891
+        },
+        {
+            "code": "mythFall",
+            "emoticon_set": 141478,
+            "id": 1912938
+        },
+        {
+            "code": "mythTSM",
+            "emoticon_set": 141478,
+            "id": 300004940
+        },
+        {
+            "code": "mythBruh",
+            "emoticon_set": 141478,
+            "id": 300502466
+        },
+        {
+            "code": "mythG",
+            "emoticon_set": 141478,
+            "id": 300742557
+        },
+        {
+            "code": "mythT",
+            "emoticon_set": 141478,
+            "id": 300742565
+        },
+        {
+            "code": "mythW",
+            "emoticon_set": 141478,
+            "id": 300742579
+        },
+        {
+            "code": "myth40",
+            "emoticon_set": 141478,
+            "id": 300787166
+        },
+        {
+            "code": "mythLurk",
+            "emoticon_set": 141478,
+            "id": 300811928
+        },
+        {
+            "code": "mythZ",
+            "emoticon_set": 141478,
+            "id": 300811934
+        },
+        {
+            "code": "mythK",
+            "emoticon_set": 141478,
+            "id": 300811942
+        },
+        {
+            "code": "mythYes",
+            "emoticon_set": 141478,
+            "id": 300859559
+        },
+        {
+            "code": "mythSir",
+            "emoticon_set": 141478,
+            "id": 300859561
+        },
+        {
+            "code": "mythHuh",
+            "emoticon_set": 141478,
+            "id": 301274893
+        },
+        {
+            "code": "mythCS",
+            "emoticon_set": 141478,
+            "id": 301338014
+        },
+        {
+            "code": "myth7",
+            "emoticon_set": 141478,
+            "id": 302122791
+        },
+        {
+            "code": "mythPeepo",
+            "emoticon_set": 141478,
+            "id": 302515100
+        },
+        {
+            "code": "myth4W",
+            "emoticon_set": 141478,
+            "id": 302515111
+        },
+        {
+            "code": "mythL",
+            "emoticon_set": 141478,
+            "id": 302525304
+        },
+        {
+            "code": "mythM",
+            "emoticon_set": 141478,
+            "id": 302525322
+        },
+        {
+            "code": "mythCozy",
+            "emoticon_set": 141478,
+            "id": 303676348
+        },
+        {
+            "code": "mythB",
+            "emoticon_set": 141478,
+            "id": 303676351
+        },
+        {
+            "code": "mythFat",
+            "emoticon_set": 141478,
+            "id": 303676354
+        },
+        {
+            "code": "mythGift",
+            "emoticon_set": 141478,
+            "id": 303676361
+        },
+        {
+            "code": "mythLul",
+            "emoticon_set": 141478,
+            "id": 303676379
+        },
+        {
+            "code": "mythS",
+            "emoticon_set": 141478,
+            "id": 303676401
+        },
+        {
+            "code": "mythMods",
+            "emoticon_set": 141478,
+            "id": 303676407
+        },
+        {
+            "code": "mythCall",
+            "emoticon_set": 141478,
+            "id": 303676410
+        },
+        {
+            "code": "mythP",
+            "emoticon_set": 141478,
+            "id": 303676413
+        },
+        {
+            "code": "mythSip",
+            "emoticon_set": 141478,
+            "id": 303676416
+        },
+        {
+            "code": "mythSit",
+            "emoticon_set": 141478,
+            "id": 303676421
+        },
+        {
+            "code": "mythH",
+            "emoticon_set": 141478,
+            "id": 303676430
+        },
+        {
+            "code": "mythPotty",
+            "emoticon_set": 141478,
+            "id": 303676443
+        },
+        {
+            "code": "mythBeam",
+            "emoticon_set": 141478,
+            "id": 304238945
+        },
+        {
+            "code": "mythMonka",
+            "emoticon_set": 141478,
+            "id": 304238949
+        },
+        {
+            "code": "mythRage",
+            "emoticon_set": 141478,
+            "id": 304238950
+        },
+        {
+            "code": "mythSad",
+            "emoticon_set": 141478,
+            "id": 304238956
+        },
+        {
+            "code": "mythJam",
+            "emoticon_set": 141478,
+            "id": 304238958
+        },
+        {
+            "code": "mythGun",
+            "emoticon_set": 141478,
+            "id": 304238961
+        },
+        {
+            "code": "mythGliz",
+            "emoticon_set": 141478,
+            "id": 304238963
+        },
+        {
+            "code": "mythD1",
+            "emoticon_set": 141478,
+            "id": 304238965
+        },
+        {
+            "code": "mythD2",
+            "emoticon_set": 141478,
+            "id": 304238966
+        },
+        {
+            "code": "mythEZ",
+            "emoticon_set": 141478,
+            "id": 304238972
+        },
+        {
+            "code": "mythIQ",
+            "emoticon_set": 141478,
+            "id": 304238984
+        },
+        {
+            "code": "mythYEP",
+            "emoticon_set": 141478,
+            "id": 304238994
+        },
+        {
+            "code": "mythPog",
+            "emoticon_set": 141478,
+            "id": 305954995
+        },
+        {
+            "code": "mythSmurk",
+            "emoticon_set": 141479,
+            "id": 303271
+        },
+        {
+            "code": "mythScoots",
+            "emoticon_set": 141481,
+            "id": 303380
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/42ad0c26-f7dd-41cd-8984-98b6b443b168/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/42ad0c26-f7dd-41cd-8984-98b6b443b168/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/42ad0c26-f7dd-41cd-8984-98b6b443b168/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e324427e-d62b-4885-be3e-19091f62cb84/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e324427e-d62b-4885-be3e-19091f62cb84/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e324427e-d62b-4885-be3e-19091f62cb84/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/14728188-534c-4417-bf57-d4fba0666aa2/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/14728188-534c-4417-bf57-d4fba0666aa2/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/14728188-534c-4417-bf57-d4fba0666aa2/3",
+            "title": "6-Month Subscriber"
+        },
+        "9": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0fd4e0fa-89e9-49e2-a62c-25aa91a180f1/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0fd4e0fa-89e9-49e2-a62c-25aa91a180f1/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0fd4e0fa-89e9-49e2-a62c-25aa91a180f1/3",
+            "title": "9-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d3c92906-0341-47ee-9601-b9c2e65e43d4/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d3c92906-0341-47ee-9601-b9c2e65e43d4/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d3c92906-0341-47ee-9601-b9c2e65e43d4/3",
+            "title": "1-Year Subscriber"
+        },
+        "18": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e8a96afd-7df0-4a60-b821-a767087e6066/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e8a96afd-7df0-4a60-b821-a767087e6066/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e8a96afd-7df0-4a60-b821-a767087e6066/3",
+            "title": "1.5-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e77c727e-c9d8-4367-90e8-0af0878d3bae/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e77c727e-c9d8-4367-90e8-0af0878d3bae/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e77c727e-c9d8-4367-90e8-0af0878d3bae/3",
+            "title": "2-Year Subscriber"
+        },
+        "30": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f95aa696-0d46-4294-bbcc-eb117ba28c5e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f95aa696-0d46-4294-bbcc-eb117ba28c5e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f95aa696-0d46-4294-bbcc-eb117ba28c5e/3",
+            "title": "2.5-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/4be13035-d763-4330-9e3d-f75ac8a208c4/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/4be13035-d763-4330-9e3d-f75ac8a208c4/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4be13035-d763-4330-9e3d-f75ac8a208c4/3",
+            "title": "3-Year Subscriber"
+        },
+        "42": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/1d04d057-3c3f-4227-8fa5-b3af42912615/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/1d04d057-3c3f-4227-8fa5-b3af42912615/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/1d04d057-3c3f-4227-8fa5-b3af42912615/3",
+            "title": "3.5-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": null,
+    "base_set_id": "141478",
+    "display_name": "Myth",
+    "generated_at": "2021-05-19T11:03:00Z"
+}

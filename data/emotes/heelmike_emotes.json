@@ -1,0 +1,321 @@
+{
+    "channel_name": "heelmike",
+    "channel_id": "96419668",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "722704",
+        "$9.99": "722705",
+        "$24.99": "722706"
+    },
+    "emotes": [
+        {
+            "code": "heelCAW",
+            "emoticon_set": 722704,
+            "id": 923167
+        },
+        {
+            "code": "heelBARS",
+            "emoticon_set": 722704,
+            "id": 1773824
+        },
+        {
+            "code": "heelC",
+            "emoticon_set": 722704,
+            "id": 1773827
+        },
+        {
+            "code": "heelRIP",
+            "emoticon_set": 722704,
+            "id": 1773839
+        },
+        {
+            "code": "heelNURD",
+            "emoticon_set": 722704,
+            "id": 1773847
+        },
+        {
+            "code": "heelCR",
+            "emoticon_set": 722704,
+            "id": 1773973
+        },
+        {
+            "code": "heelMONSTAHS",
+            "emoticon_set": 722704,
+            "id": 1774174
+        },
+        {
+            "code": "heelWUT",
+            "emoticon_set": 722704,
+            "id": 1795585
+        },
+        {
+            "code": "heelHI",
+            "emoticon_set": 722704,
+            "id": 1928767
+        },
+        {
+            "code": "heelK",
+            "emoticon_set": 722704,
+            "id": 1928796
+        },
+        {
+            "code": "heelP",
+            "emoticon_set": 722704,
+            "id": 1932044
+        },
+        {
+            "code": "heelS",
+            "emoticon_set": 722704,
+            "id": 300232140
+        },
+        {
+            "code": "heelSMUG",
+            "emoticon_set": 722704,
+            "id": 300232146
+        },
+        {
+            "code": "heelSTARE",
+            "emoticon_set": 722704,
+            "id": 300232272
+        },
+        {
+            "code": "heelPRAY",
+            "emoticon_set": 722704,
+            "id": 300232280
+        },
+        {
+            "code": "heelSTEAL",
+            "emoticon_set": 722704,
+            "id": 300559769
+        },
+        {
+            "code": "heelTRIGGERED",
+            "emoticon_set": 722704,
+            "id": 300613807
+        },
+        {
+            "code": "heelSMILE",
+            "emoticon_set": 722704,
+            "id": 300718958
+        },
+        {
+            "code": "heel50",
+            "emoticon_set": 722704,
+            "id": 300742099
+        },
+        {
+            "code": "heelSTASHE",
+            "emoticon_set": 722704,
+            "id": 300754855
+        },
+        {
+            "code": "heelLOOK",
+            "emoticon_set": 722704,
+            "id": 300754858
+        },
+        {
+            "code": "heelCRY1",
+            "emoticon_set": 722704,
+            "id": 301017704
+        },
+        {
+            "code": "heelCRY2",
+            "emoticon_set": 722704,
+            "id": 301017708
+        },
+        {
+            "code": "heelCRY3",
+            "emoticon_set": 722704,
+            "id": 301017711
+        },
+        {
+            "code": "heelCRY4",
+            "emoticon_set": 722704,
+            "id": 301017714
+        },
+        {
+            "code": "heelLOOK2",
+            "emoticon_set": 722704,
+            "id": 301048128
+        },
+        {
+            "code": "heelEVIL",
+            "emoticon_set": 722704,
+            "id": 301048131
+        },
+        {
+            "code": "heelLATE",
+            "emoticon_set": 722704,
+            "id": 301048136
+        },
+        {
+            "code": "heelCAMEL",
+            "emoticon_set": 722704,
+            "id": 301760032
+        },
+        {
+            "code": "heelKEK",
+            "emoticon_set": 722704,
+            "id": 301946955
+        },
+        {
+            "code": "heelFLEXL",
+            "emoticon_set": 722704,
+            "id": 302166073
+        },
+        {
+            "code": "heelFLEXR",
+            "emoticon_set": 722704,
+            "id": 302166077
+        },
+        {
+            "code": "heelDAD",
+            "emoticon_set": 722704,
+            "id": 303244845
+        },
+        {
+            "code": "heelJUG",
+            "emoticon_set": 722704,
+            "id": 303401952
+        },
+        {
+            "code": "heelG2",
+            "emoticon_set": 722704,
+            "id": 304490878
+        },
+        {
+            "code": "heelTRAIN",
+            "emoticon_set": 722704,
+            "id": 305333813
+        },
+        {
+            "code": "heelRAGE",
+            "emoticon_set": 722704,
+            "id": 305333886
+        },
+        {
+            "code": "heelDUMB",
+            "emoticon_set": 722704,
+            "id": 305333911
+        },
+        {
+            "code": "heelGASM",
+            "emoticon_set": 722704,
+            "id": 305333918
+        },
+        {
+            "code": "heelMONKA",
+            "emoticon_set": 722704,
+            "id": 305333932
+        },
+        {
+            "code": "heelLUL",
+            "emoticon_set": 722704,
+            "id": 305333947
+        },
+        {
+            "code": "heelSTAB",
+            "emoticon_set": 722704,
+            "id": 305333990
+        },
+        {
+            "code": "heelQ",
+            "emoticon_set": 722704,
+            "id": 306973088
+        },
+        {
+            "code": "heelFISTBUMPL",
+            "emoticon_set": 722704,
+            "id": 307440964
+        },
+        {
+            "code": "heelFISTBUMPR",
+            "emoticon_set": 722704,
+            "id": 307440967
+        },
+        {
+            "code": "heelKISSL",
+            "emoticon_set": 722704,
+            "id": 307440974
+        },
+        {
+            "code": "heelKISSR",
+            "emoticon_set": 722704,
+            "id": 307440977
+        },
+        {
+            "code": "heelSAD",
+            "emoticon_set": 722704,
+            "id": 307440981
+        },
+        {
+            "code": "heelDRAGON",
+            "emoticon_set": 722704,
+            "id": 307523175
+        },
+        {
+            "code": "heelDRAGON2",
+            "emoticon_set": 722704,
+            "id": 307523182
+        },
+        {
+            "code": "heelT2",
+            "emoticon_set": 722705,
+            "id": 302303850
+        },
+        {
+            "code": "heelT3",
+            "emoticon_set": 722706,
+            "id": 302303855
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8265ba08-0e33-4685-9dd9-5defcb24ac32/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8265ba08-0e33-4685-9dd9-5defcb24ac32/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8265ba08-0e33-4685-9dd9-5defcb24ac32/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f7a2f227-51cd-4a37-9ea6-e3e5c999e51d/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f7a2f227-51cd-4a37-9ea6-e3e5c999e51d/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f7a2f227-51cd-4a37-9ea6-e3e5c999e51d/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2cecd660-67b9-474c-949b-4d4ef26c136e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2cecd660-67b9-474c-949b-4d4ef26c136e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2cecd660-67b9-474c-949b-4d4ef26c136e/3",
+            "title": "6-Month Subscriber"
+        },
+        "9": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/52361a9c-bce6-43cd-9d51-53e5bc5af08f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/52361a9c-bce6-43cd-9d51-53e5bc5af08f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/52361a9c-bce6-43cd-9d51-53e5bc5af08f/3",
+            "title": "9-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/792ffa3c-038d-4265-8d2c-6f5391dd2f40/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/792ffa3c-038d-4265-8d2c-6f5391dd2f40/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/792ffa3c-038d-4265-8d2c-6f5391dd2f40/3",
+            "title": "1-Year Subscriber"
+        },
+        "18": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/4263fb93-dcb6-449e-8a1b-5d83824627d6/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/4263fb93-dcb6-449e-8a1b-5d83824627d6/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4263fb93-dcb6-449e-8a1b-5d83824627d6/3",
+            "title": "1.5-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/38b9ce1c-6122-4e0e-a3cd-21ea9dec8a30/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/38b9ce1c-6122-4e0e-a3cd-21ea9dec8a30/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/38b9ce1c-6122-4e0e-a3cd-21ea9dec8a30/3",
+            "title": "2-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": null,
+    "base_set_id": "722704",
+    "display_name": "Heelmike",
+    "generated_at": "2021-05-19T11:03:34Z"
+}

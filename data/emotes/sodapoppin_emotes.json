@@ -1,0 +1,592 @@
+{
+    "channel_name": "sodapoppin",
+    "channel_id": "26301881",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "105",
+        "$9.99": "36711",
+        "$24.99": "36712"
+    },
+    "emotes": [
+        {
+            "code": "sodaG",
+            "emoticon_set": 105,
+            "id": 1948536
+        },
+        {
+            "code": "sodaHP",
+            "emoticon_set": 105,
+            "id": 1948554
+        },
+        {
+            "code": "sodaWOW",
+            "emoticon_set": 105,
+            "id": 1948579
+        },
+        {
+            "code": "sodaNice",
+            "emoticon_set": 105,
+            "id": 1948681
+        },
+        {
+            "code": "sodaPride",
+            "emoticon_set": 105,
+            "id": 1948847
+        },
+        {
+            "code": "sodaS",
+            "emoticon_set": 105,
+            "id": 1949063
+        },
+        {
+            "code": "sodaShovel",
+            "emoticon_set": 105,
+            "id": 1949540
+        },
+        {
+            "code": "sodaW",
+            "emoticon_set": 105,
+            "id": 1949677
+        },
+        {
+            "code": "sodaC",
+            "emoticon_set": 105,
+            "id": 1949682
+        },
+        {
+            "code": "sodaSMUG",
+            "emoticon_set": 105,
+            "id": 302132706
+        },
+        {
+            "code": "sodaRob",
+            "emoticon_set": 105,
+            "id": 302239891
+        },
+        {
+            "code": "sodaGun",
+            "emoticon_set": 105,
+            "id": 302918474
+        },
+        {
+            "code": "sodaWAND",
+            "emoticon_set": 105,
+            "id": 303651057
+        },
+        {
+            "code": "sodaO",
+            "emoticon_set": 105,
+            "id": 303939817
+        },
+        {
+            "code": "sodaHappythoughts",
+            "emoticon_set": 105,
+            "id": 304021785
+        },
+        {
+            "code": "sodaSmoke",
+            "emoticon_set": 105,
+            "id": 304198189
+        },
+        {
+            "code": "sodaSTARE",
+            "emoticon_set": 105,
+            "id": 304244071
+        },
+        {
+            "code": "sodaBF",
+            "emoticon_set": 105,
+            "id": 304244265
+        },
+        {
+            "code": "sodaDAB",
+            "emoticon_set": 105,
+            "id": 304381226
+        },
+        {
+            "code": "sodaCrump",
+            "emoticon_set": 105,
+            "id": 304490869
+        },
+        {
+            "code": "sodaHey",
+            "emoticon_set": 105,
+            "id": 304701940
+        },
+        {
+            "code": "sodaPresent",
+            "emoticon_set": 105,
+            "id": 304701957
+        },
+        {
+            "code": "sodaL",
+            "emoticon_set": 105,
+            "id": 304876188
+        },
+        {
+            "code": "sodaL2",
+            "emoticon_set": 105,
+            "id": 304876195
+        },
+        {
+            "code": "sodaHi",
+            "emoticon_set": 105,
+            "id": 304987159
+        },
+        {
+            "code": "sodaPray",
+            "emoticon_set": 105,
+            "id": 305142644
+        },
+        {
+            "code": "sodaSadCat",
+            "emoticon_set": 105,
+            "id": 305142646
+        },
+        {
+            "code": "sodaOkay",
+            "emoticon_set": 105,
+            "id": 305142651
+        },
+        {
+            "code": "sodaNo",
+            "emoticon_set": 105,
+            "id": 305178983
+        },
+        {
+            "code": "sodaSip",
+            "emoticon_set": 105,
+            "id": 305179003
+        },
+        {
+            "code": "sodaYes",
+            "emoticon_set": 105,
+            "id": 305179008
+        },
+        {
+            "code": "sodaShy",
+            "emoticon_set": 105,
+            "id": 305195576
+        },
+        {
+            "code": "sodaSmirk",
+            "emoticon_set": 105,
+            "id": 305195580
+        },
+        {
+            "code": "sodaFacepalm",
+            "emoticon_set": 105,
+            "id": 305240051
+        },
+        {
+            "code": "sodaGift",
+            "emoticon_set": 105,
+            "id": 305240053
+        },
+        {
+            "code": "sodaPeek",
+            "emoticon_set": 105,
+            "id": 305240057
+        },
+        {
+            "code": "sodaEZ",
+            "emoticon_set": 105,
+            "id": 305276658
+        },
+        {
+            "code": "sodaCry",
+            "emoticon_set": 105,
+            "id": 305296674
+        },
+        {
+            "code": "sodaCult",
+            "emoticon_set": 105,
+            "id": 305296681
+        },
+        {
+            "code": "sodaMad",
+            "emoticon_set": 105,
+            "id": 305470476
+        },
+        {
+            "code": "sodaPog",
+            "emoticon_set": 105,
+            "id": 305470714
+        },
+        {
+            "code": "sodaBOOP",
+            "emoticon_set": 105,
+            "id": 305918284
+        },
+        {
+            "code": "sodaNOTE",
+            "emoticon_set": 105,
+            "id": 305918289
+        },
+        {
+            "code": "sodaDead",
+            "emoticon_set": 105,
+            "id": 305976004
+        },
+        {
+            "code": "sodaH",
+            "emoticon_set": 105,
+            "id": 305994400
+        },
+        {
+            "code": "sodaWICKED",
+            "emoticon_set": 105,
+            "id": 306065646
+        },
+        {
+            "code": "sodaHmm",
+            "emoticon_set": 105,
+            "id": 306669853
+        },
+        {
+            "code": "sodaStare",
+            "emoticon_set": 105,
+            "id": 306670154
+        },
+        {
+            "code": "sodaSUFFER",
+            "emoticon_set": 105,
+            "id": 306690437
+        },
+        {
+            "code": "sodaMeow",
+            "emoticon_set": 105,
+            "id": 306711750
+        },
+        {
+            "code": "sodaBox",
+            "emoticon_set": 105,
+            "id": 306981487
+        },
+        {
+            "code": "sodaComfy",
+            "emoticon_set": 105,
+            "id": 306981814
+        },
+        {
+            "code": "sodaHide",
+            "emoticon_set": 105,
+            "id": 306981874
+        },
+        {
+            "code": "sodaSmile",
+            "emoticon_set": 105,
+            "id": 306981881
+        },
+        {
+            "code": "sodaAYAYA",
+            "emoticon_set": 105,
+            "id": 307028250
+        },
+        {
+            "code": "sodaPat",
+            "emoticon_set": 105,
+            "id": 307094469
+        },
+        {
+            "code": "sodaOwO",
+            "emoticon_set": 105,
+            "id": 307094892
+        },
+        {
+            "code": "sodaHappy",
+            "emoticon_set": 105,
+            "id": 307140068
+        },
+        {
+            "code": "sodaB",
+            "emoticon_set": 105,
+            "id": 307415550
+        },
+        {
+            "code": "sodaFat",
+            "emoticon_set": 105,
+            "id": 307424908
+        },
+        {
+            "code": "sodaLL",
+            "emoticon_set": 36711,
+            "id": 306670835
+        },
+        {
+            "code": "sodaChamp",
+            "emoticon_set": 36711,
+            "id": 306670849
+        },
+        {
+            "code": "sodaWhatisthis",
+            "emoticon_set": 36711,
+            "id": 306690490
+        },
+        {
+            "code": "sodaXD",
+            "emoticon_set": 36711,
+            "id": 306691952
+        },
+        {
+            "code": "sodaSO",
+            "emoticon_set": 36711,
+            "id": 306852107
+        },
+        {
+            "code": "sodaKing",
+            "emoticon_set": 36712,
+            "id": 305257990
+        },
+        {
+            "code": "sodaLETS",
+            "emoticon_set": 36712,
+            "id": 305258005
+        },
+        {
+            "code": "soda1",
+            "emoticon_set": 36712,
+            "id": 306690575
+        },
+        {
+            "code": "soda2",
+            "emoticon_set": 36712,
+            "id": 306690577
+        },
+        {
+            "code": "sodaSleep",
+            "emoticon_set": 36712,
+            "id": 306981846
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f1a4d545-31c9-42b1-8b36-df1619b0e8d0/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f1a4d545-31c9-42b1-8b36-df1619b0e8d0/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f1a4d545-31c9-42b1-8b36-df1619b0e8d0/3",
+            "title": "Subscriber"
+        },
+        "2": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d57d7410-026a-480a-aed7-6db20c2d36fe/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d57d7410-026a-480a-aed7-6db20c2d36fe/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d57d7410-026a-480a-aed7-6db20c2d36fe/3",
+            "title": "2-Month Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/40d42100-0227-4543-b5be-b4ca091f577d/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/40d42100-0227-4543-b5be-b4ca091f577d/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/40d42100-0227-4543-b5be-b4ca091f577d/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3975b6db-fbe0-4ab3-93ce-083fb7930b52/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3975b6db-fbe0-4ab3-93ce-083fb7930b52/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3975b6db-fbe0-4ab3-93ce-083fb7930b52/3",
+            "title": "6-Month Subscriber"
+        },
+        "9": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6a323e8e-14b3-4fb4-a263-c0ac9e3a53ab/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6a323e8e-14b3-4fb4-a263-c0ac9e3a53ab/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6a323e8e-14b3-4fb4-a263-c0ac9e3a53ab/3",
+            "title": "9-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8cdd097e-a732-4557-86e0-fa883bdc8643/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8cdd097e-a732-4557-86e0-fa883bdc8643/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8cdd097e-a732-4557-86e0-fa883bdc8643/3",
+            "title": "1-Year Subscriber"
+        },
+        "18": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c9715ae6-f65d-4a46-9e39-32bec0a07382/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c9715ae6-f65d-4a46-9e39-32bec0a07382/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c9715ae6-f65d-4a46-9e39-32bec0a07382/3",
+            "title": "1.5-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2dfa7eea-3862-40ec-a78b-779b39405941/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2dfa7eea-3862-40ec-a78b-779b39405941/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2dfa7eea-3862-40ec-a78b-779b39405941/3",
+            "title": "2-Year Subscriber"
+        },
+        "30": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a7805bcb-4bf7-4c4c-bdb1-ae061801460d/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a7805bcb-4bf7-4c4c-bdb1-ae061801460d/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a7805bcb-4bf7-4c4c-bdb1-ae061801460d/3",
+            "title": "2.5-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/64f94f1d-644d-4e17-9686-cfd69756ae16/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/64f94f1d-644d-4e17-9686-cfd69756ae16/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/64f94f1d-644d-4e17-9686-cfd69756ae16/3",
+            "title": "3-Year Subscriber"
+        },
+        "42": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ec5e049b-78f2-444d-a9a2-bee41630ec81/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ec5e049b-78f2-444d-a9a2-bee41630ec81/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ec5e049b-78f2-444d-a9a2-bee41630ec81/3",
+            "title": "3.5-Year Subscriber"
+        },
+        "48": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2f872301-dab7-4ae9-98f6-1e613f0f8734/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2f872301-dab7-4ae9-98f6-1e613f0f8734/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2f872301-dab7-4ae9-98f6-1e613f0f8734/3",
+            "title": "4-Year Subscriber"
+        },
+        "54": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f9202213-ab06-46cf-9d62-fc295d3877d3/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f9202213-ab06-46cf-9d62-fc295d3877d3/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f9202213-ab06-46cf-9d62-fc295d3877d3/3",
+            "title": "4.5-Year Subscriber"
+        },
+        "60": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5dfdf49f-2a41-4726-8bca-9890f5ab4ee2/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5dfdf49f-2a41-4726-8bca-9890f5ab4ee2/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5dfdf49f-2a41-4726-8bca-9890f5ab4ee2/3",
+            "title": "5-Year Subscriber"
+        },
+        "66": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b7fe535c-cd56-4d56-b760-2164019dc5a1/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b7fe535c-cd56-4d56-b760-2164019dc5a1/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b7fe535c-cd56-4d56-b760-2164019dc5a1/3",
+            "title": "5.5-Year Subscriber"
+        },
+        "72": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/caa27b7b-5e2a-493f-ae85-bcca56060389/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/caa27b7b-5e2a-493f-ae85-bcca56060389/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/caa27b7b-5e2a-493f-ae85-bcca56060389/3",
+            "title": "6-Year Subscriber"
+        },
+        "78": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f5588d98-b24d-4c9b-a845-793f5cd1ace5/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f5588d98-b24d-4c9b-a845-793f5cd1ace5/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f5588d98-b24d-4c9b-a845-793f5cd1ace5/3",
+            "title": "6.5-Year Subscriber"
+        },
+        "84": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/89b527a8-cd73-4e79-9e87-3018d1b8dcdb/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/89b527a8-cd73-4e79-9e87-3018d1b8dcdb/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/89b527a8-cd73-4e79-9e87-3018d1b8dcdb/3",
+            "title": "7-Year Subscriber"
+        },
+        "90": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d3fec403-2867-41bc-9935-61f25cbded4a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d3fec403-2867-41bc-9935-61f25cbded4a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d3fec403-2867-41bc-9935-61f25cbded4a/3",
+            "title": "7.5-Year Subscriber"
+        },
+        "96": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/12808fa3-8c19-4bf7-8b38-f9d0df873863/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/12808fa3-8c19-4bf7-8b38-f9d0df873863/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/12808fa3-8c19-4bf7-8b38-f9d0df873863/3",
+            "title": "8-Year Subscriber"
+        }
+    },
+    "bits_badges": {
+        "1000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c80adaf6-bf53-4a6c-8e55-d37bb7eb8929/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c80adaf6-bf53-4a6c-8e55-d37bb7eb8929/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c80adaf6-bf53-4a6c-8e55-d37bb7eb8929/3",
+            "title": "cheer 1000"
+        },
+        "5000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d7097377-8479-467b-9f00-0e5b3c1172e5/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d7097377-8479-467b-9f00-0e5b3c1172e5/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d7097377-8479-467b-9f00-0e5b3c1172e5/3",
+            "title": "cheer 5000"
+        },
+        "10000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f30ed8a2-79ac-41ab-97bc-64101f380e35/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f30ed8a2-79ac-41ab-97bc-64101f380e35/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f30ed8a2-79ac-41ab-97bc-64101f380e35/3",
+            "title": "cheer 10000"
+        },
+        "25000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9f49285d-f119-4dc2-9dab-13153c158113/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9f49285d-f119-4dc2-9dab-13153c158113/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9f49285d-f119-4dc2-9dab-13153c158113/3",
+            "title": "cheer 25000"
+        },
+        "50000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7608c750-f555-4d74-9649-2896713d93af/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7608c750-f555-4d74-9649-2896713d93af/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7608c750-f555-4d74-9649-2896713d93af/3",
+            "title": "cheer 50000"
+        },
+        "75000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/79d252d0-71ee-400a-9f2f-9e03f099aad4/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/79d252d0-71ee-400a-9f2f-9e03f099aad4/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/79d252d0-71ee-400a-9f2f-9e03f099aad4/3",
+            "title": "cheer 75000"
+        },
+        "100000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e752b85e-6a6a-4508-b278-80ffebc33bdb/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e752b85e-6a6a-4508-b278-80ffebc33bdb/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e752b85e-6a6a-4508-b278-80ffebc33bdb/3",
+            "title": "cheer 100000"
+        },
+        "200000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/39ad185f-cd98-474c-9353-c076932ef177/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/39ad185f-cd98-474c-9353-c076932ef177/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/39ad185f-cd98-474c-9353-c076932ef177/3",
+            "title": "cheer 200000"
+        },
+        "300000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/286a1ee9-e9ac-4447-88b6-b16427e6cb1a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/286a1ee9-e9ac-4447-88b6-b16427e6cb1a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/286a1ee9-e9ac-4447-88b6-b16427e6cb1a/3",
+            "title": "cheer 300000"
+        },
+        "400000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6c9b46ab-c577-44b4-832f-6748509abafe/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6c9b46ab-c577-44b4-832f-6748509abafe/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6c9b46ab-c577-44b4-832f-6748509abafe/3",
+            "title": "cheer 400000"
+        },
+        "500000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/1fa14165-cea8-4c57-a593-bed91b9752be/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/1fa14165-cea8-4c57-a593-bed91b9752be/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/1fa14165-cea8-4c57-a593-bed91b9752be/3",
+            "title": "cheer 500000"
+        }
+    },
+    "cheermotes": {
+        "1": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1/light/animated/4.gif"
+        },
+        "100": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/100/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/100/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/100/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/100/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/100/light/animated/4.gif"
+        },
+        "1000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/1000/light/animated/4.gif"
+        },
+        "5000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/5000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/5000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/5000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/5000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/5000/light/animated/4.gif"
+        },
+        "10000": {
+            "1": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/10000/light/animated/1.gif",
+            "1.5": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/10000/light/animated/1.5.gif",
+            "2": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/10000/light/animated/2.gif",
+            "3": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/10000/light/animated/3.gif",
+            "4": "https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/26301881/c504e25d-5f46-4422-b649-ae26c68850f5/10000/light/animated/4.gif"
+        }
+    },
+    "base_set_id": "105",
+    "display_name": "Sodapoppin",
+    "generated_at": "2021-05-19T11:02:50Z"
+}

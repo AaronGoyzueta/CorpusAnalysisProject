@@ -1,0 +1,375 @@
+{
+    "channel_name": "summit1g",
+    "channel_id": "26490481",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "227",
+        "$9.99": "29965",
+        "$24.99": "29966"
+    },
+    "emotes": [
+        {
+            "code": "sumOhface",
+            "emoticon_set": 227,
+            "id": 1785
+        },
+        {
+            "code": "sumCreeper",
+            "emoticon_set": 227,
+            "id": 3689
+        },
+        {
+            "code": "sumAbby",
+            "emoticon_set": 227,
+            "id": 4075
+        },
+        {
+            "code": "sumOreo",
+            "emoticon_set": 227,
+            "id": 4076
+        },
+        {
+            "code": "sumHorse",
+            "emoticon_set": 227,
+            "id": 4110
+        },
+        {
+            "code": "sumRekt",
+            "emoticon_set": 227,
+            "id": 9873
+        },
+        {
+            "code": "sum1g",
+            "emoticon_set": 227,
+            "id": 9874
+        },
+        {
+            "code": "sumRip",
+            "emoticon_set": 227,
+            "id": 17068
+        },
+        {
+            "code": "sumPuzzle",
+            "emoticon_set": 227,
+            "id": 29115
+        },
+        {
+            "code": "sumVac",
+            "emoticon_set": 227,
+            "id": 32062
+        },
+        {
+            "code": "sumVac2",
+            "emoticon_set": 227,
+            "id": 32063
+        },
+        {
+            "code": "sumGodflash",
+            "emoticon_set": 227,
+            "id": 32086
+        },
+        {
+            "code": "sumPotato",
+            "emoticon_set": 227,
+            "id": 60613
+        },
+        {
+            "code": "sumCrash",
+            "emoticon_set": 227,
+            "id": 61531
+        },
+        {
+            "code": "sumPluto",
+            "emoticon_set": 227,
+            "id": 69298
+        },
+        {
+            "code": "sumLove",
+            "emoticon_set": 227,
+            "id": 80958
+        },
+        {
+            "code": "sumFail",
+            "emoticon_set": 227,
+            "id": 80993
+        },
+        {
+            "code": "sumFood",
+            "emoticon_set": 227,
+            "id": 80994
+        },
+        {
+            "code": "sumThump",
+            "emoticon_set": 227,
+            "id": 80995
+        },
+        {
+            "code": "sumUp",
+            "emoticon_set": 227,
+            "id": 80996
+        },
+        {
+            "code": "sumBuhblam",
+            "emoticon_set": 227,
+            "id": 90969
+        },
+        {
+            "code": "sumSuh",
+            "emoticon_set": 227,
+            "id": 94254
+        },
+        {
+            "code": "sumMolly",
+            "emoticon_set": 227,
+            "id": 136983
+        },
+        {
+            "code": "sumW",
+            "emoticon_set": 227,
+            "id": 141193
+        },
+        {
+            "code": "sumE",
+            "emoticon_set": 227,
+            "id": 162456
+        },
+        {
+            "code": "sumChair",
+            "emoticon_set": 227,
+            "id": 194200
+        },
+        {
+            "code": "sumGG",
+            "emoticon_set": 227,
+            "id": 194498
+        },
+        {
+            "code": "sumLUL",
+            "emoticon_set": 227,
+            "id": 208772
+        },
+        {
+            "code": "sumSmokey",
+            "emoticon_set": 227,
+            "id": 319886
+        },
+        {
+            "code": "sumPhone",
+            "emoticon_set": 227,
+            "id": 615043
+        },
+        {
+            "code": "sumEZ",
+            "emoticon_set": 227,
+            "id": 615044
+        },
+        {
+            "code": "sumG",
+            "emoticon_set": 227,
+            "id": 615045
+        },
+        {
+            "code": "sumS",
+            "emoticon_set": 227,
+            "id": 910286
+        },
+        {
+            "code": "sumAthena",
+            "emoticon_set": 227,
+            "id": 1768681
+        },
+        {
+            "code": "sumPirate",
+            "emoticon_set": 227,
+            "id": 1774063
+        },
+        {
+            "code": "sumTucked",
+            "emoticon_set": 227,
+            "id": 1778224
+        },
+        {
+            "code": "sumDust",
+            "emoticon_set": 227,
+            "id": 1804794
+        },
+        {
+            "code": "sumSwim",
+            "emoticon_set": 227,
+            "id": 1816465
+        },
+        {
+            "code": "sumWiener",
+            "emoticon_set": 227,
+            "id": 1834172
+        },
+        {
+            "code": "sumK",
+            "emoticon_set": 227,
+            "id": 301662919
+        },
+        {
+            "code": "sumKona",
+            "emoticon_set": 227,
+            "id": 301662923
+        },
+        {
+            "code": "sumMhm",
+            "emoticon_set": 227,
+            "id": 301662928
+        },
+        {
+            "code": "sumR",
+            "emoticon_set": 227,
+            "id": 301662931
+        },
+        {
+            "code": "sumZzz",
+            "emoticon_set": 227,
+            "id": 301662937
+        },
+        {
+            "code": "sumWTF",
+            "emoticon_set": 227,
+            "id": 301663015
+        },
+        {
+            "code": "sumDuck",
+            "emoticon_set": 227,
+            "id": 301840314
+        },
+        {
+            "code": "sumBlue",
+            "emoticon_set": 227,
+            "id": 302793217
+        },
+        {
+            "code": "sumB",
+            "emoticon_set": 227,
+            "id": 303742875
+        },
+        {
+            "code": "sumD",
+            "emoticon_set": 227,
+            "id": 303742876
+        },
+        {
+            "code": "sumSus",
+            "emoticon_set": 227,
+            "id": 303742880
+        },
+        {
+            "code": "sumUh",
+            "emoticon_set": 227,
+            "id": 303742881
+        },
+        {
+            "code": "sumWut",
+            "emoticon_set": 227,
+            "id": 303742883
+        },
+        {
+            "code": "sumY",
+            "emoticon_set": 227,
+            "id": 303742884
+        },
+        {
+            "code": "sumPause",
+            "emoticon_set": 227,
+            "id": 303742892
+        },
+        {
+            "code": "sumKomrade",
+            "emoticon_set": 227,
+            "id": 304750229
+        },
+        {
+            "code": "sumGoldfish",
+            "emoticon_set": 227,
+            "id": 306560629
+        },
+        {
+            "code": "sumGold",
+            "emoticon_set": 29965,
+            "id": 194602
+        },
+        {
+            "code": "sumPride",
+            "emoticon_set": 29966,
+            "id": 194201
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9670d3ba-3a6f-44ac-b15d-2a89be67cd0b/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9670d3ba-3a6f-44ac-b15d-2a89be67cd0b/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9670d3ba-3a6f-44ac-b15d-2a89be67cd0b/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f8d9bc06-fcc5-49c5-8dc0-8c5f397b22a2/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f8d9bc06-fcc5-49c5-8dc0-8c5f397b22a2/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f8d9bc06-fcc5-49c5-8dc0-8c5f397b22a2/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/beb6bc7f-6c9e-4649-9976-d4303b22dd2b/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/beb6bc7f-6c9e-4649-9976-d4303b22dd2b/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/beb6bc7f-6c9e-4649-9976-d4303b22dd2b/3",
+            "title": "6-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ed60b3b1-5140-4ec8-b466-1f55680c6145/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ed60b3b1-5140-4ec8-b466-1f55680c6145/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ed60b3b1-5140-4ec8-b466-1f55680c6145/3",
+            "title": "1-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e6287db7-1caf-4668-89cc-d65a26e26e30/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e6287db7-1caf-4668-89cc-d65a26e26e30/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e6287db7-1caf-4668-89cc-d65a26e26e30/3",
+            "title": "2-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9c60d9e1-a6aa-4d48-ba40-b3f634444e1e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9c60d9e1-a6aa-4d48-ba40-b3f634444e1e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9c60d9e1-a6aa-4d48-ba40-b3f634444e1e/3",
+            "title": "3-Year Subscriber"
+        },
+        "48": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d6813653-292e-4e09-9d12-5da787f9934c/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d6813653-292e-4e09-9d12-5da787f9934c/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d6813653-292e-4e09-9d12-5da787f9934c/3",
+            "title": "4-Year Subscriber"
+        },
+        "60": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/924ad168-1901-4ac4-9a4f-b7657b41971e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/924ad168-1901-4ac4-9a4f-b7657b41971e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/924ad168-1901-4ac4-9a4f-b7657b41971e/3",
+            "title": "5-Year Subscriber"
+        },
+        "72": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/04b8ce80-657f-4fe7-a13b-f5d3e1f49917/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/04b8ce80-657f-4fe7-a13b-f5d3e1f49917/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/04b8ce80-657f-4fe7-a13b-f5d3e1f49917/3",
+            "title": "6-Year Subscriber"
+        },
+        "84": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b53fa8a3-732c-4eb2-84ae-759680fc61da/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b53fa8a3-732c-4eb2-84ae-759680fc61da/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b53fa8a3-732c-4eb2-84ae-759680fc61da/3",
+            "title": "7-Year Subscriber"
+        },
+        "96": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7f8cf55f-f69d-42b4-b55b-6100cb4894fa/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7f8cf55f-f69d-42b4-b55b-6100cb4894fa/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7f8cf55f-f69d-42b4-b55b-6100cb4894fa/3",
+            "title": "8-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": null,
+    "base_set_id": "227",
+    "display_name": "Summit1g",
+    "generated_at": "2021-05-19T11:02:50Z"
+}

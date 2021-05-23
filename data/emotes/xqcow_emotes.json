@@ -1,0 +1,474 @@
+{
+    "channel_name": "xqcow",
+    "channel_id": "71092938",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "19503",
+        "$9.99": "31465",
+        "$24.99": "31466"
+    },
+    "emotes": [
+        {
+            "code": "xqcKek",
+            "emoticon_set": 19503,
+            "id": 156895
+        },
+        {
+            "code": "xqcSword",
+            "emoticon_set": 19503,
+            "id": 449282
+        },
+        {
+            "code": "xqcS",
+            "emoticon_set": 19503,
+            "id": 581053
+        },
+        {
+            "code": "xqcSkull",
+            "emoticon_set": 19503,
+            "id": 631256
+        },
+        {
+            "code": "xqcHYPERF",
+            "emoticon_set": 19503,
+            "id": 631262
+        },
+        {
+            "code": "xqcSmug",
+            "emoticon_set": 19503,
+            "id": 631277
+        },
+        {
+            "code": "xqcMood",
+            "emoticon_set": 19503,
+            "id": 632233
+        },
+        {
+            "code": "xqcJ",
+            "emoticon_set": 19503,
+            "id": 684863
+        },
+        {
+            "code": "xqcFace",
+            "emoticon_set": 19503,
+            "id": 713024
+        },
+        {
+            "code": "xqcSleeper",
+            "emoticon_set": 19503,
+            "id": 713028
+        },
+        {
+            "code": "xqcSad",
+            "emoticon_set": 19503,
+            "id": 750591
+        },
+        {
+            "code": "xqcSmile",
+            "emoticon_set": 19503,
+            "id": 846547
+        },
+        {
+            "code": "xqcArm2",
+            "emoticon_set": 19503,
+            "id": 880743
+        },
+        {
+            "code": "xqcArm1",
+            "emoticon_set": 19503,
+            "id": 880744
+        },
+        {
+            "code": "xqcE",
+            "emoticon_set": 19503,
+            "id": 880747
+        },
+        {
+            "code": "xqcT",
+            "emoticon_set": 19503,
+            "id": 932291
+        },
+        {
+            "code": "xqcOld",
+            "emoticon_set": 19503,
+            "id": 932293
+        },
+        {
+            "code": "xqcL",
+            "emoticon_set": 19503,
+            "id": 1035663
+        },
+        {
+            "code": "xqcRage",
+            "emoticon_set": 19503,
+            "id": 1035664
+        },
+        {
+            "code": "xqcEZ",
+            "emoticon_set": 19503,
+            "id": 1035667
+        },
+        {
+            "code": "xqcLook",
+            "emoticon_set": 19503,
+            "id": 1035670
+        },
+        {
+            "code": "xqcM",
+            "emoticon_set": 19503,
+            "id": 1035672
+        },
+        {
+            "code": "xqcH",
+            "emoticon_set": 19503,
+            "id": 1035681
+        },
+        {
+            "code": "xqcDab",
+            "emoticon_set": 19503,
+            "id": 1035688
+        },
+        {
+            "code": "xqcJuice",
+            "emoticon_set": 19503,
+            "id": 1035693
+        },
+        {
+            "code": "xqcG",
+            "emoticon_set": 19503,
+            "id": 1035696
+        },
+        {
+            "code": "xqcHands",
+            "emoticon_set": 19503,
+            "id": 1153770
+        },
+        {
+            "code": "xqcPrime",
+            "emoticon_set": 19503,
+            "id": 1227110
+        },
+        {
+            "code": "xqcN",
+            "emoticon_set": 19503,
+            "id": 1332990
+        },
+        {
+            "code": "xqcF",
+            "emoticon_set": 19503,
+            "id": 1369231
+        },
+        {
+            "code": "xqcWut",
+            "emoticon_set": 19503,
+            "id": 1454368
+        },
+        {
+            "code": "xqcA",
+            "emoticon_set": 19503,
+            "id": 1480140
+        },
+        {
+            "code": "xqcFast",
+            "emoticon_set": 19503,
+            "id": 1607001
+        },
+        {
+            "code": "xqcTOS",
+            "emoticon_set": 19503,
+            "id": 1907217
+        },
+        {
+            "code": "xqcY",
+            "emoticon_set": 19503,
+            "id": 1907227
+        },
+        {
+            "code": "xqcSkip",
+            "emoticon_set": 19503,
+            "id": 300320354
+        },
+        {
+            "code": "xqcCarried",
+            "emoticon_set": 19503,
+            "id": 300521371
+        },
+        {
+            "code": "xqcWar",
+            "emoticon_set": 19503,
+            "id": 300521372
+        },
+        {
+            "code": "xqcTree",
+            "emoticon_set": 19503,
+            "id": 300521373
+        },
+        {
+            "code": "xqcMS",
+            "emoticon_set": 19503,
+            "id": 300696052
+        },
+        {
+            "code": "xqcHAA",
+            "emoticon_set": 19503,
+            "id": 300817235
+        },
+        {
+            "code": "xqcGift",
+            "emoticon_set": 19503,
+            "id": 300817238
+        },
+        {
+            "code": "xqcStare",
+            "emoticon_set": 19503,
+            "id": 301334587
+        },
+        {
+            "code": "xqcK",
+            "emoticon_set": 19503,
+            "id": 301361407
+        },
+        {
+            "code": "xqcPeepo",
+            "emoticon_set": 19503,
+            "id": 301445381
+        },
+        {
+            "code": "xqcBuild",
+            "emoticon_set": 19503,
+            "id": 301489982
+        },
+        {
+            "code": "xqcI",
+            "emoticon_set": 19503,
+            "id": 301597868
+        },
+        {
+            "code": "xqcC",
+            "emoticon_set": 19503,
+            "id": 301614364
+        },
+        {
+            "code": "xqcHug",
+            "emoticon_set": 19503,
+            "id": 301614369
+        },
+        {
+            "code": "xqcDUD",
+            "emoticon_set": 19503,
+            "id": 302334335
+        },
+        {
+            "code": "xqcTL",
+            "emoticon_set": 19503,
+            "id": 302334343
+        },
+        {
+            "code": "xqcLewd",
+            "emoticon_set": 19503,
+            "id": 304823493
+        },
+        {
+            "code": "xqcNom",
+            "emoticon_set": 19503,
+            "id": 304985479
+        },
+        {
+            "code": "xqcRich",
+            "emoticon_set": 19503,
+            "id": 304985497
+        },
+        {
+            "code": "xqcAYAYA",
+            "emoticon_set": 19503,
+            "id": 304985500
+        },
+        {
+            "code": "xqcCo",
+            "emoticon_set": 19503,
+            "id": 304985516
+        },
+        {
+            "code": "xqcHead",
+            "emoticon_set": 19503,
+            "id": 305362983
+        },
+        {
+            "code": "xqcPog",
+            "emoticon_set": 19503,
+            "id": 305362992
+        },
+        {
+            "code": "xqcGob",
+            "emoticon_set": 19503,
+            "id": 305362997
+        },
+        {
+            "code": "xqcOmega",
+            "emoticon_set": 19503,
+            "id": 305535174
+        },
+        {
+            "code": "xqcStory",
+            "emoticon_set": 31465,
+            "id": 1187190
+        },
+        {
+            "code": "xqcLove",
+            "emoticon_set": 31466,
+            "id": 300696047
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/45d2202b-ac70-4fd8-9004-b0a00c9d1c06/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/45d2202b-ac70-4fd8-9004-b0a00c9d1c06/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/45d2202b-ac70-4fd8-9004-b0a00c9d1c06/3",
+            "title": "Subscriber"
+        },
+        "2": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/953ed46a-9e1c-4b47-b7d9-f0ecd4e425d3/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/953ed46a-9e1c-4b47-b7d9-f0ecd4e425d3/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/953ed46a-9e1c-4b47-b7d9-f0ecd4e425d3/3",
+            "title": "2-Month Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3f5b3778-9e83-4164-ad55-8516b13ca1ff/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3f5b3778-9e83-4164-ad55-8516b13ca1ff/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3f5b3778-9e83-4164-ad55-8516b13ca1ff/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/938de2bd-8d1a-4c47-affd-2af2c3be6356/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/938de2bd-8d1a-4c47-affd-2af2c3be6356/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/938de2bd-8d1a-4c47-affd-2af2c3be6356/3",
+            "title": "6-Month Subscriber"
+        },
+        "9": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0ef486cf-8b88-499f-a2dc-ae068abf0404/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0ef486cf-8b88-499f-a2dc-ae068abf0404/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0ef486cf-8b88-499f-a2dc-ae068abf0404/3",
+            "title": "9-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3c2bff1a-509d-47c6-82e5-be82afa38c58/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3c2bff1a-509d-47c6-82e5-be82afa38c58/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3c2bff1a-509d-47c6-82e5-be82afa38c58/3",
+            "title": "1-Year Subscriber"
+        },
+        "18": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/99d4d22c-8952-4124-8bf8-aa588c696022/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/99d4d22c-8952-4124-8bf8-aa588c696022/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/99d4d22c-8952-4124-8bf8-aa588c696022/3",
+            "title": "1.5-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/bbc0e9d6-db5a-4b7b-83a8-282d18eb3598/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/bbc0e9d6-db5a-4b7b-83a8-282d18eb3598/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/bbc0e9d6-db5a-4b7b-83a8-282d18eb3598/3",
+            "title": "2-Year Subscriber"
+        },
+        "30": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/cf942223-7961-459d-bdfe-48de5dc7a34f/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/cf942223-7961-459d-bdfe-48de5dc7a34f/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/cf942223-7961-459d-bdfe-48de5dc7a34f/3",
+            "title": "2.5-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/726a1417-3fca-4e83-881a-c0a249deec41/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/726a1417-3fca-4e83-881a-c0a249deec41/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/726a1417-3fca-4e83-881a-c0a249deec41/3",
+            "title": "3-Year Subscriber"
+        },
+        "42": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0f54f553-78e8-4f59-9232-f89dd8b9fd5b/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0f54f553-78e8-4f59-9232-f89dd8b9fd5b/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0f54f553-78e8-4f59-9232-f89dd8b9fd5b/3",
+            "title": "3.5-Year Subscriber"
+        },
+        "48": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8fb62806-f71f-4be8-ab47-61c0ecb8d5a2/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8fb62806-f71f-4be8-ab47-61c0ecb8d5a2/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8fb62806-f71f-4be8-ab47-61c0ecb8d5a2/3",
+            "title": "4-Year Subscriber"
+        }
+    },
+    "bits_badges": {
+        "100": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5570b631-4262-4836-b8b1-7e1be472956c/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5570b631-4262-4836-b8b1-7e1be472956c/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5570b631-4262-4836-b8b1-7e1be472956c/3",
+            "title": "cheer 100"
+        },
+        "1000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f28a618f-542e-4f0e-97be-73bca9bdf36b/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f28a618f-542e-4f0e-97be-73bca9bdf36b/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f28a618f-542e-4f0e-97be-73bca9bdf36b/3",
+            "title": "cheer 1000"
+        },
+        "5000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3a99eb1c-d8b1-415a-b9fb-5b27591d421e/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3a99eb1c-d8b1-415a-b9fb-5b27591d421e/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3a99eb1c-d8b1-415a-b9fb-5b27591d421e/3",
+            "title": "cheer 5000"
+        },
+        "10000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/06769a4a-047b-4b32-adfa-fc3d0dc70618/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/06769a4a-047b-4b32-adfa-fc3d0dc70618/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/06769a4a-047b-4b32-adfa-fc3d0dc70618/3",
+            "title": "cheer 10000"
+        },
+        "25000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/234f8127-03a3-4d39-b7b5-51231c7902d0/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/234f8127-03a3-4d39-b7b5-51231c7902d0/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/234f8127-03a3-4d39-b7b5-51231c7902d0/3",
+            "title": "cheer 25000"
+        },
+        "50000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b682a073-d4bf-4155-be6a-dffb53671b7b/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b682a073-d4bf-4155-be6a-dffb53671b7b/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b682a073-d4bf-4155-be6a-dffb53671b7b/3",
+            "title": "cheer 50000"
+        },
+        "75000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e47f1661-ee4a-4e5c-9cd5-d927b5121109/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e47f1661-ee4a-4e5c-9cd5-d927b5121109/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e47f1661-ee4a-4e5c-9cd5-d927b5121109/3",
+            "title": "cheer 75000"
+        },
+        "100000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d99ca01f-94e0-4395-9b9a-8c8eccd4ec92/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d99ca01f-94e0-4395-9b9a-8c8eccd4ec92/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d99ca01f-94e0-4395-9b9a-8c8eccd4ec92/3",
+            "title": "cheer 100000"
+        },
+        "200000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e444436e-b83b-4377-974f-0b1f84d9cbd9/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e444436e-b83b-4377-974f-0b1f84d9cbd9/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e444436e-b83b-4377-974f-0b1f84d9cbd9/3",
+            "title": "cheer 200000"
+        },
+        "300000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0d693257-b3d1-4f39-af5b-ada537cee01a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0d693257-b3d1-4f39-af5b-ada537cee01a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0d693257-b3d1-4f39-af5b-ada537cee01a/3",
+            "title": "cheer 300000"
+        },
+        "400000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f13eae65-b81d-418c-b57b-cd7a33cbe5c3/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f13eae65-b81d-418c-b57b-cd7a33cbe5c3/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f13eae65-b81d-418c-b57b-cd7a33cbe5c3/3",
+            "title": "cheer 400000"
+        },
+        "500000": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d24f235b-8d9b-4d55-b7b1-732cb775b391/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d24f235b-8d9b-4d55-b7b1-732cb775b391/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d24f235b-8d9b-4d55-b7b1-732cb775b391/3",
+            "title": "cheer 500000"
+        }
+    },
+    "cheermotes": null,
+    "base_set_id": "19503",
+    "display_name": "Xqcow",
+    "generated_at": "2021-05-19T11:02:53Z"
+}

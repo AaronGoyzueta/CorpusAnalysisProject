@@ -1,0 +1,316 @@
+{
+    "channel_name": "ibai",
+    "channel_id": "83232866",
+    "broadcaster_type": "partner",
+    "plans": {
+        "$4.99": "529630",
+        "$9.99": "529631",
+        "$24.99": "529632"
+    },
+    "emotes": [
+        {
+            "code": "ibaiZapatilla1",
+            "emoticon_set": 529630,
+            "id": 2067796
+        },
+        {
+            "code": "ibaiZapatilla2",
+            "emoticon_set": 529630,
+            "id": 2067805
+        },
+        {
+            "code": "ibaiSad",
+            "emoticon_set": 529630,
+            "id": 2067840
+        },
+        {
+            "code": "ibaiOMG",
+            "emoticon_set": 529630,
+            "id": 2067863
+        },
+        {
+            "code": "ibaiZzz",
+            "emoticon_set": 529630,
+            "id": 2067868
+        },
+        {
+            "code": "ibaiWillynice",
+            "emoticon_set": 529630,
+            "id": 2067910
+        },
+        {
+            "code": "ibaiVAR",
+            "emoticon_set": 529630,
+            "id": 2067917
+        },
+        {
+            "code": "ibaiBarbe",
+            "emoticon_set": 529630,
+            "id": 2067926
+        },
+        {
+            "code": "ibaiAnder",
+            "emoticon_set": 529630,
+            "id": 2067933
+        },
+        {
+            "code": "ibaiLetsgo",
+            "emoticon_set": 529630,
+            "id": 2067942
+        },
+        {
+            "code": "ibaiFeliz",
+            "emoticon_set": 529630,
+            "id": 2068032
+        },
+        {
+            "code": "ibaiG2",
+            "emoticon_set": 529630,
+            "id": 301944180
+        },
+        {
+            "code": "ibaiGG",
+            "emoticon_set": 529630,
+            "id": 301944185
+        },
+        {
+            "code": "ibaiKena",
+            "emoticon_set": 529630,
+            "id": 301944194
+        },
+        {
+            "code": "ibaiKnekro",
+            "emoticon_set": 529630,
+            "id": 301944197
+        },
+        {
+            "code": "ibaiOcelote",
+            "emoticon_set": 529630,
+            "id": 301944209
+        },
+        {
+            "code": "ibaiOrgullo",
+            "emoticon_set": 529630,
+            "id": 301944212
+        },
+        {
+            "code": "ibaiRA",
+            "emoticon_set": 529630,
+            "id": 301944216
+        },
+        {
+            "code": "ibaiRezar",
+            "emoticon_set": 529630,
+            "id": 301944242
+        },
+        {
+            "code": "ibaiSinorejas",
+            "emoticon_set": 529630,
+            "id": 301944245
+        },
+        {
+            "code": "ibaiTA",
+            "emoticon_set": 529630,
+            "id": 301944252
+        },
+        {
+            "code": "ibai200IQ",
+            "emoticon_set": 529630,
+            "id": 301944260
+        },
+        {
+            "code": "ibaiCalvo",
+            "emoticon_set": 529630,
+            "id": 301944268
+        },
+        {
+            "code": "ibaiZas",
+            "emoticon_set": 529630,
+            "id": 301944272
+        },
+        {
+            "code": "ibaiBan",
+            "emoticon_set": 529630,
+            "id": 302371066
+        },
+        {
+            "code": "ibaiBofetada",
+            "emoticon_set": 529630,
+            "id": 302371073
+        },
+        {
+            "code": "ibaiChicoteok",
+            "emoticon_set": 529630,
+            "id": 302371077
+        },
+        {
+            "code": "ibaiChicoteAsco",
+            "emoticon_set": 529630,
+            "id": 302371081
+        },
+        {
+            "code": "ibaiNova",
+            "emoticon_set": 529630,
+            "id": 302371093
+        },
+        {
+            "code": "ibaiQue",
+            "emoticon_set": 529630,
+            "id": 302371101
+        },
+        {
+            "code": "ibaiPasa",
+            "emoticon_set": 529630,
+            "id": 302371105
+        },
+        {
+            "code": "ibaiCrack",
+            "emoticon_set": 529630,
+            "id": 302371108
+        },
+        {
+            "code": "ibaiRobada",
+            "emoticon_set": 529630,
+            "id": 302371117
+        },
+        {
+            "code": "ibaiSustoReven",
+            "emoticon_set": 529630,
+            "id": 302371120
+        },
+        {
+            "code": "ibaiTemazo",
+            "emoticon_set": 529630,
+            "id": 302371125
+        },
+        {
+            "code": "ibaiUntre",
+            "emoticon_set": 529630,
+            "id": 302371131
+        },
+        {
+            "code": "ibaiGracias",
+            "emoticon_set": 529630,
+            "id": 302371258
+        },
+        {
+            "code": "ibaiBrasil",
+            "emoticon_set": 529630,
+            "id": 302401993
+        },
+        {
+            "code": "ibaiLala",
+            "emoticon_set": 529630,
+            "id": 302402007
+        },
+        {
+            "code": "ibai18",
+            "emoticon_set": 529630,
+            "id": 302433846
+        },
+        {
+            "code": "ibai99Fe",
+            "emoticon_set": 529630,
+            "id": 302788134
+        },
+        {
+            "code": "ibaiPog",
+            "emoticon_set": 529630,
+            "id": 302788191
+        },
+        {
+            "code": "ibaiLupa",
+            "emoticon_set": 529630,
+            "id": 303635911
+        },
+        {
+            "code": "ibaiImpostor",
+            "emoticon_set": 529630,
+            "id": 303646364
+        },
+        {
+            "code": "ibaiSilla",
+            "emoticon_set": 529630,
+            "id": 304197646
+        },
+        {
+            "code": "ibaiNana",
+            "emoticon_set": 529630,
+            "id": 304330493
+        },
+        {
+            "code": "ibaiNoel",
+            "emoticon_set": 529630,
+            "id": 304746183
+        },
+        {
+            "code": "ibaiEstandar",
+            "emoticon_set": 529630,
+            "id": 304748311
+        },
+        {
+            "code": "ibaiDeLocos",
+            "emoticon_set": 529630,
+            "id": 304748550
+        },
+        {
+            "code": "ibaiOzuna",
+            "emoticon_set": 529630,
+            "id": 304748573
+        },
+        {
+            "code": "ibaiVamoajuga",
+            "emoticon_set": 529630,
+            "id": 304750389
+        }
+    ],
+    "subscriber_badges": {
+        "0": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/31924c25-160f-400f-93a2-425cead9e1d5/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/31924c25-160f-400f-93a2-425cead9e1d5/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/31924c25-160f-400f-93a2-425cead9e1d5/3",
+            "title": "Subscriber"
+        },
+        "3": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/bacb395f-e258-4274-b3f8-44d4475ea02a/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/bacb395f-e258-4274-b3f8-44d4475ea02a/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/bacb395f-e258-4274-b3f8-44d4475ea02a/3",
+            "title": "3-Month Subscriber"
+        },
+        "6": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d2477c28-4643-4680-80a8-46a5e0b02ed1/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d2477c28-4643-4680-80a8-46a5e0b02ed1/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d2477c28-4643-4680-80a8-46a5e0b02ed1/3",
+            "title": "6-Month Subscriber"
+        },
+        "12": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/973f6fec-ce47-4d47-9582-ece75f3c7296/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/973f6fec-ce47-4d47-9582-ece75f3c7296/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/973f6fec-ce47-4d47-9582-ece75f3c7296/3",
+            "title": "1-Year Subscriber"
+        },
+        "24": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c431977f-fc67-4e00-aeb7-e93376b1083b/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c431977f-fc67-4e00-aeb7-e93376b1083b/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c431977f-fc67-4e00-aeb7-e93376b1083b/3",
+            "title": "2-Year Subscriber"
+        },
+        "36": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/486cbc51-e2de-43a5-a733-84f094d1fc13/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/486cbc51-e2de-43a5-a733-84f094d1fc13/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/486cbc51-e2de-43a5-a733-84f094d1fc13/3",
+            "title": "3-Year Subscriber"
+        },
+        "60": {
+            "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8302b54b-6d7f-4fcb-afb9-a2bc495d7640/1",
+            "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8302b54b-6d7f-4fcb-afb9-a2bc495d7640/2",
+            "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8302b54b-6d7f-4fcb-afb9-a2bc495d7640/3",
+            "title": "5-Year Subscriber"
+        }
+    },
+    "bits_badges": null,
+    "cheermotes": null,
+    "base_set_id": "529630",
+    "display_name": "Ibai",
+    "generated_at": "2021-05-19T11:03:23Z"
+}
